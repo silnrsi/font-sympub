@@ -1,0 +1,30 @@
+-----
+FONTLOG for the SymPub fonts
+
+This file provides detailed information on the SymPub Font Software.
+This information should be distributed along with the SymPub fonts and any derivative works.
+
+Basic Font Information
+
+SymPub is an open font with characters that help with typesetting projects.
+Font sources are in UFO3 format.
+
+ChangeLog
+
+15 Apr 2026 (SIL font development team) SymPub version 0.100
+- Stripped down copy of SymChar
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E),
+web-address (if you have one) (W) and description (D).
+This list is in alphabetical order.
+
+N: SIL designers and developers
+E: https://software.sil.org/about/contact/
+W: https://software.sil.org/wstech/
+D: Designers and developers
+
+SIL Global (https://www.sil.org/) serves language communities worldwide,
+building their capacity for sustainable language development by means of
+research, translation, training and materials development.

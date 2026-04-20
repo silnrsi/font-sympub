@@ -1,4 +1,4 @@
-# SymPub [![Build Status](https://build.palaso.org/app/rest/builds/buildType:Fonts_SymPub/statusIcon)](https://build.palaso.org/viewType.html?buildTypeId=Fonts_SymPub&guest=1)
+# SymPub
 
 SymPub (Symbols for Publishing) is an open font with characters that help with typesetting projects. These characters are in three categories:
 
