@@ -58,8 +58,8 @@ def main():
         csv_reader = csv.DictReader(csvfile)
         line_count = 0
         for row in csv_reader:
-            if row["usv"] != "":
-                make_image(row["frame_l"], row["usv"], row["frame_r1"], row["frame_r2"])
+            if row["USV"] != "":
+                make_image(row["frame_l"], row["USV"], row["frame_r1"], row["frame_r2"])
             line_count += 1
         print(f'Created {line_count} images')
     

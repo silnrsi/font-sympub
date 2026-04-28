@@ -5,7 +5,7 @@ SymPub (Symbols for Publishing) is an open font with characters that help with t
 - Footnote callers - A wide selection of characters already sized and raised for footnote (and other) callers
 - Bottom brackets - Several brackets that can be used to mark textual variants, such as in a glossary.
 
-The distrbition package includes TTF, WOFF, and WOFF2 versions (see the web folder).
+The distribution package includes TTF, WOFF, and WOFF2 versions (see the web folder).
 
 ## Encoding details
 

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd tools || exit 1
+python3 maketable.py
+cd .. || exit 1

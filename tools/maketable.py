@@ -23,9 +23,9 @@ def main():
     with open(incsv, mode='r') as csvfile:
         csv_reader = csv.DictReader(csvfile)
         for row in csv_reader:
-            if row["usv"] != "" and row["in_docs"] == "D":
+            if row["USV"] != "" and row["in_docs"] == "D":
                 fonts = ""
-                newrow = "![](images/img_" + row["usv"][2:6] + ".png)" + " | " + row["usv"] + " | " + row["doc_name"] + " | " + row["doc_uni"] + "\n"
+                newrow = "![](images/img_" + row["USV"] + ".png)" + " | U+" + row["USV"] + " | " + row["doc_name"] + " | " + row["doc_uni"] + "\n"
                 tablerows += newrow
 
     table = tablehead + tablediv + tablerows
