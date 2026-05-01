@@ -1,0 +1,4 @@
+#!/bin/sh
+
+psffixffglifs -p checkfix=fix source/SymPub-Regular.ufo
+./preflight
