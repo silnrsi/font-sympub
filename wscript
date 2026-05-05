@@ -8,7 +8,7 @@ APPNAME = 'SymPub'
 DESC_SHORT = "SymPub Font"
 
 # build primary font
-getufoinfo('source/SymPub-Regular.ufo')
+getufoinfo('source/masters/SymPub-Regular.ufo')
 
 designspace('source/SymPub.designspace',
             target = "${DS:FILENAME_BASE}.ttf",

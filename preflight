@@ -1,10 +1,10 @@
 #!/bin/sh
 
 echo "-----Normalizing and updating production names"
-psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/SymPub-Regular.ufo
+psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/masters/SymPub-Regular.ufo
 
 echo "-----Updating glyph orders in Regular..."
-psfsetglyphorder -i source/glyph_data.csv source/SymPub-Regular.ufo
+psfsetglyphorder -i source/glyph_data.csv source/masters/SymPub-Regular.ufo
 
 echo "-----Updating WOFF metadata..."
-psfmakewoffmetadata -n sympub -i "org.sil.fonts" -o source/SymPub-WOFF-metadata.xml source/SymPub-Regular.ufo
+psfmakewoffmetadata -n sympub -i "org.sil.fonts" -o source/SymPub-WOFF-metadata.xml source/masters/SymPub-Regular.ufo
