@@ -62,8 +62,6 @@
   <key>public.glyphOrder</key>
   <array>
     <string>.notdef</string>
-    <string>.null</string>
-    <string>nonmarkingreturn</string>
     <string>refasc</string>
     <string>refdesc</string>
     <string>refuc</string>

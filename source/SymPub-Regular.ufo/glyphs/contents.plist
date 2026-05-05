@@ -4,10 +4,6 @@
 <dict>
   <key>.notdef</key>
   <string>_notdef.glif</string>
-  <key>.null</key>
-  <string>_null.glif</string>
-  <key>nonmarkingreturn</key>
-  <string>nonmarkingreturn.glif</string>
   <key>refasc</key>
   <string>refasc.glif</string>
   <key>refbox</key>

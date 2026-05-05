@@ -1,7 +1,5 @@
 glyph_name,ps_name,sort_design,sort_final,USV,in_docs,doc_name,doc_uni,frame_l,frame_r1,frame_r2
 .notdef,.notdef,0,0,,,,,,,
-.null,.null,1,1,0000,,,U+0000,,,
-nonmarkingreturn,nonmarkingreturn,2,2,000D,,,U+000D,,,
 refasc,refasc,1901,1901,E0B1,D,size reference - ascender,,,,
 refdesc,refdesc,1902,1902,E0B2,D,size reference - descender,,,,
 refuc,refuc,1903,1903,E0B3,D,size reference - uppercase,,,,
