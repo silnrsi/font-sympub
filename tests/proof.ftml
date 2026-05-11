@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../tools/ftml.xsl" type="text/xsl"?>
+<ftml version="1.2">
+  <head>
+    <comment>Background colors: light orange: includes a character from Unicode version 16.0 or later; light red: a character is missing from UFO; light green: a character is new in this version of the font</comment>
+    <fontscale>200</fontscale>
+    <fontsrc label="refT">url(../references/SymPub-Thin.ttf)</fontsrc>
+    <fontsrc label="refXL">url(../references/SymPub-ExtraLight.ttf)</fontsrc>
+    <fontsrc label="refL">url(../references/SymPub-Light.ttf)</fontsrc>
+    <fontsrc label="refR">url(../references/SymPub-Regular.ttf)</fontsrc>
+    <fontsrc label="refM">url(../references/SymPub-Medium.ttf)</fontsrc>
+    <fontsrc label="refSB">url(../references/SymPub-SemiBold.ttf)</fontsrc>
+    <fontsrc label="refB">url(../references/SymPub-Bold.ttf)</fontsrc>
+    <fontsrc label="refXB">url(../references/SymPub-ExtraBold.ttf)</fontsrc>
+    <fontsrc label="refK">url(../references/SymPub-Black.ttf)</fontsrc>
+    <fontsrc label="T">url(../results/SymPub-Thin.ttf)</fontsrc>
+    <fontsrc label="XL">url(../results/SymPub-ExtraLight.ttf)</fontsrc>
+    <fontsrc label="L">url(../results/SymPub-Light.ttf)</fontsrc>
+    <fontsrc label="R">url(../results/SymPub-Regular.ttf)</fontsrc>
+    <fontsrc label="M">url(../results/SymPub-Medium.ttf)</fontsrc>
+    <fontsrc label="SB">url(../results/SymPub-SemiBold.ttf)</fontsrc>
+    <fontsrc label="B">url(../results/SymPub-Bold.ttf)</fontsrc>
+    <fontsrc label="XB">url(../results/SymPub-ExtraBold.ttf)</fontsrc>
+    <fontsrc label="K">url(../results/SymPub-Black.ttf)</fontsrc>
+    <fontsrc label="notoT">url(../references/NotoSans-Thin.ttf)</fontsrc>
+    <fontsrc label="notoXL">url(../references/NotoSans-ExtraLight.ttf)</fontsrc>
+    <fontsrc label="notoL">url(../references/NotoSans-Light.ttf)</fontsrc>
+    <fontsrc label="notoR">url(../references/NotoSans-Regular.ttf)</fontsrc>
+    <fontsrc label="notoM">url(../references/NotoSans-Medium.ttf)</fontsrc>
+    <fontsrc label="notoSB">url(../references/NotoSans-SemiBold.ttf)</fontsrc>
+    <fontsrc label="notoB">url(../references/NotoSans-Bold.ttf)</fontsrc>
+    <fontsrc label="notoXB">url(../references/NotoSans-ExtraBold.ttf)</fontsrc>
+    <fontsrc label="notoK">url(../references/NotoSans-Black.ttf)</fontsrc>
+    <title>Proof auto</title>
+  </head>
+  <testgroup label="Proof">
+    <test label="U+E0B1
+U+E0B2
+U+E0B3
+U+E0B4">
+      <comment>refasc refdesc refuc refbox</comment>
+      <string>\u00E0B1\u00E0B2\u00E0B3\u00E0B4</string>
+    </test>
+  </testgroup>
+</ftml>

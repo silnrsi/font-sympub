@@ -1,0 +1,35 @@
+#!/bin/bash
+
+# This script rebuilds the algorithmically-generated ftml files.
+
+set -e
+
+if [ ! -f wscript ]
+then
+	echo "Must be in the root of the project"
+	exit 2
+fi
+
+# configure tests
+tests="AllChars Proof"
+urls='url(../references/SymPub-Thin.ttf)=refT url(../references/SymPub-ExtraLight.ttf)=refXL url(../references/SymPub-Light.ttf)=refL url(../references/SymPub-Regular.ttf)=refR url(../references/SymPub-Medium.ttf)=refM url(../references/SymPub-SemiBold.ttf)=refSB url(../references/SymPub-Bold.ttf)=refB url(../references/SymPub-ExtraBold.ttf)=refXB url(../references/SymPub-Black.ttf)=refK url(../results/SymPub-Thin.ttf)=T url(../results/SymPub-ExtraLight.ttf)=XL url(../results/SymPub-Light.ttf)=L url(../results/SymPub-Regular.ttf)=R url(../results/SymPub-Medium.ttf)=M url(../results/SymPub-SemiBold.ttf)=SB url(../results/SymPub-Bold.ttf)=B url(../results/SymPub-ExtraBold.ttf)=XB url(../results/SymPub-Black.ttf)=K url(../references/NotoSans-Thin.ttf)=notoT url(../references/NotoSans-ExtraLight.ttf)=notoXL url(../references/NotoSans-Light.ttf)=notoL url(../references/NotoSans-Regular.ttf)=notoR url(../references/NotoSans-Medium.ttf)=notoM url(../references/NotoSans-SemiBold.ttf)=notoSB url(../references/NotoSans-Bold.ttf)=notoB url(../references/NotoSans-ExtraBold.ttf)=notoXB url(../references/NotoSans-Black.ttf)=notoK'
+ufo='source/masters/SymPub-Regular.ufo'
+
+# list all the fonts to test
+fonts=''
+for url in $urls
+do
+	fonts="$fonts -s '$url'"
+done
+
+echo "Rebuilding ftml files..."
+for test in $tests
+do
+	base=${test,,}
+	title="\"${test} auto\""
+	ftml=tests/${base}.ftml
+	log=tests/logs/${base}.log
+	eval tools/psfgenftml.py -q -t "$title" --prevfont references/SymPub-Regular.ttf --norendercheck --scale 200 -i source/glyph_data.csv --xsl ../tools/ftml.xsl "$fonts" -l $log $ufo $ftml &
+done
+wait
+echo "done."
