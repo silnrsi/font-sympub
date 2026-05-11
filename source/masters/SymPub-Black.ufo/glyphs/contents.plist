@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>.notdef</key>
+  <string>_notdef.glif</string>
+  <key>refasc</key>
+  <string>refasc.glif</string>
+  <key>refbox</key>
+  <string>refbox.glif</string>
+  <key>refdesc</key>
+  <string>refdesc.glif</string>
+  <key>refuc</key>
+  <string>refuc.glif</string>
+</dict>
+</plist>

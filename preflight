@@ -1,10 +1,19 @@
 #!/bin/sh
 
-echo "-----Normalizing and updating production names"
-psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/masters/SymPub-Regular.ufo
+# This normalization will also run check and fix routines
+psfnormalize -p checkfix=fix source/masters/SymPub-Thin.ufo    &
+psfnormalize -p checkfix=fix source/masters/SymPub-Regular.ufo &
+psfnormalize -p checkfix=fix source/masters/SymPub-Black.ufo   &
+wait
 
-echo "-----Updating glyph orders in Regular..."
-psfsetglyphorder -i source/glyph_data.csv source/masters/SymPub-Regular.ufo
+# Update glyph order in Regular UFO
+psfsetglyphorder --header sort_final -i source/glyph_data.csv source/masters/SymPub-Regular.ufo
 
-echo "-----Updating WOFF metadata..."
-psfmakewoffmetadata -n sympub -i "org.sil.fonts" -o source/SymPub-WOFF-metadata.xml source/masters/SymPub-Regular.ufo
+# Update production names in Regular UFO
+psfsetpsnames -i source/glyph_data.csv source/masters/SymPub-Regular.ufo
+
+# Sync glyph orders, psnames, and other metadata
+psfsyncmasters -q source/SymPub.designspace
+
+# Create WOFF metadata file
+psfmakewoffmetadata -n sympub -i org.sil.fonts -o source/SymPub-WOFF-metadata.xml source/masters/SymPub-Regular.ufo

@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>SymPub</string>
   <key>openTypeHeadCreated</key>
-  <string>2026/05/05 07:18:14</string>
+  <string>2026/05/11 14:43:06</string>
   <key>openTypeHheaAscender</key>
   <integer>966</integer>
   <key>openTypeHheaDescender</key>
@@ -79,9 +79,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNamePreferredFamilyName</key>
   <string>SymPub</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Regular</string>
+  <string>Thin</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL Global: SymPub Regular: 2026</string>
+  <string>SIL Global: SymPub Thin: 2026</string>
   <key>openTypeNameVersion</key>
   <string>Version 0.100</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -141,7 +141,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2VendorID</key>
   <string>SIL </string>
   <key>openTypeOS2WeightClass</key>
-  <integer>400</integer>
+  <integer>100</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
@@ -154,13 +154,13 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>0</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>SymPub-Regular</string>
+  <string>SymPub-Thin</string>
   <key>postscriptUnderlinePosition</key>
   <integer>-100</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>49</integer>
   <key>styleName</key>
-  <string>Regular</string>
+  <string>Thin</string>
   <key>trademark</key>
   <string>SymPub is a trademark of SIL Global.</string>
   <key>unitsPerEm</key>

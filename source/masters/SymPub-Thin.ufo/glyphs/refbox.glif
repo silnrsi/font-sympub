@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="refbox" format="2">
+  <advance width="1000"/>
+  <unicode hex="E0B4"/>
+  <outline>
+    <contour>
+      <point x="0" y="-234" type="line"/>
+      <point x="1000" y="-234" type="line"/>
+      <point x="1000" y="967" type="line"/>
+      <point x="0" y="967" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="-225" type="line"/>
+      <point x="10" y="957" type="line"/>
+      <point x="990" y="957" type="line"/>
+      <point x="990" y="-225" type="line"/>
+    </contour>
+    <contour>
+      <point x="16" y="0" type="line"/>
+      <point x="984" y="0" type="line"/>
+      <point x="984" y="10" type="line"/>
+      <point x="16" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="16" y="361" type="line"/>
+      <point x="984" y="361" type="line"/>
+      <point x="984" y="371" type="line"/>
+      <point x="16" y="371" type="line"/>
+    </contour>
+    <contour>
+      <point x="16" y="723" type="line"/>
+      <point x="984" y="723" type="line"/>
+      <point x="984" y="732" type="line"/>
+      <point x="16" y="732" type="line"/>
+    </contour>
+  </outline>
+</glyph>
