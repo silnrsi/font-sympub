@@ -12,6 +12,7 @@ getufoinfo('source/masters/SymPub-Regular.ufo')
 
 cmds = [
     cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['${source}']),
+    cmd('gftools fix-nonhinting -q --no-backup ${DEP} ${TGT}'),
     ]
 
 designspace('source/SymPub.designspace',
