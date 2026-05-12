@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sevencircle" format="2">
+  <advance width="1000"/>
+  <unicode hex="2466"/>
+  <note>
+uni2466
+</note>
+  <anchor x="500" y="0" name="center"/>
+  <outline>
+    <component base="_circledComp"/>
+    <contour>
+      <point x="433" y="144" type="line"/>
+      <point x="464" y="144" type="line"/>
+      <point x="651" y="550" type="line"/>
+      <point x="651" y="572" type="line"/>
+      <point x="376" y="572" type="line"/>
+      <point x="376" y="545" type="line"/>
+      <point x="619" y="545" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>1480</integer>
+    </dict>
+  </lib>
+</glyph>

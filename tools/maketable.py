@@ -16,8 +16,8 @@ These are the encoded characters in the SymPub fonts. The characters from the fo
 """
 
 def main():
-    tablehead = "Image | USV | Description | Represents\n"
-    tablediv  = "----- | --- | ----------- | ----------\n"
+    tablehead = "Image | USV | Description\n"
+    tablediv  = "----- | --- | -----------\n"
     tablerows = ""
     # read csv
     with open(incsv, mode='r') as csvfile:
@@ -25,7 +25,7 @@ def main():
         for row in csv_reader:
             if row["USV"] != "" and row["in_docs"] == "D":
                 fonts = ""
-                newrow = "![](images/img_" + row["USV"] + ".png)" + " | U+" + row["USV"] + " | " + row["doc_name"] + " | " + row["doc_uni"] + "\n"
+                newrow = "![](images/img_" + row["USV"] + ".png)" + " | U+" + row["USV"] + " | " + row["doc_name"] + "\n"
                 tablerows += newrow
 
     table = tablehead + tablediv + tablerows

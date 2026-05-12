@@ -31,15 +31,106 @@
     <fontsrc label="notoB">url(../references/NotoSans-Bold.ttf)</fontsrc>
     <fontsrc label="notoXB">url(../references/NotoSans-ExtraBold.ttf)</fontsrc>
     <fontsrc label="notoK">url(../references/NotoSans-Black.ttf)</fontsrc>
+    <fontsrc label="notoSymT">url(../references/NotoSansSymbols-Thin.ttf)</fontsrc>
+    <fontsrc label="notoSymXL">url(../references/NotoSansSymbols-ExtraLight.ttf)</fontsrc>
+    <fontsrc label="notoSymL">url(../references/NotoSansSymbols-Light.ttf)</fontsrc>
+    <fontsrc label="notoSymR">url(../references/NotoSansSymbols-Regular.ttf)</fontsrc>
+    <fontsrc label="notoSymM">url(../references/NotoSansSymbols-Medium.ttf)</fontsrc>
+    <fontsrc label="notoSymSB">url(../references/NotoSansSymbols-SemiBold.ttf)</fontsrc>
+    <fontsrc label="notoSymB">url(../references/NotoSansSymbols-Bold.ttf)</fontsrc>
+    <fontsrc label="notoSymXB">url(../references/NotoSansSymbols-ExtraBold.ttf)</fontsrc>
+    <fontsrc label="notoSymK">url(../references/NotoSansSymbols-Black.ttf)</fontsrc>
+    <fontsrc label="notoMathR">url(../references/NotoSansMath-Regular.ttf)</fontsrc>
+    <fontsrc label="notoSym2R">url(../references/NotoSansSymbols2-Regular.ttf)</fontsrc>
     <title>Proof auto</title>
   </head>
   <testgroup label="Proof">
-    <test label="U+E0B1
+    <test label="U+0023
+U+002A
+U+00A4
+U+00A7
+U+00B6
+U+00B7
+U+0394
+U+2020
+U+2021
+U+2022
+U+2023
+U+203B
+U+2207
+U+221E
+U+2295
+U+2296
+U+2297
+U+2298
+U+230A
+U+230B
+U+231E
+U+231F
+U+2460
+U+2461
+U+2462
+U+2463
+U+2464
+U+2465
+U+2466
+U+2467
+U+2468
+U+2469
+U+246A
+U+246B
+U+246C
+U+246D
+U+246E
+U+246F
+U+2470
+U+2471
+U+2472
+U+2473
+U+24EB
+U+24EC
+U+24ED
+U+24EE
+U+24EF
+U+24F0
+U+24F1
+U+24F2
+U+24F3
+U+24F4
+U+24FF
+U+25CA
+U+2605
+U+2606
+U+2723
+U+2724
+U+2726
+U+2727
+U+272A
+U+272F
+U+2734
+U+2736
+U+2738
+U+273B
+U+2756
+U+2776
+U+2777
+U+2778
+U+2779
+U+277A
+U+277B
+U+277C
+U+277D
+U+277E
+U+277F
+U+2E24
+U+2E25
+U+2E4B
+U+E0B1
 U+E0B2
 U+E0B3
 U+E0B4">
-      <comment>refasc refdesc refuc refbox</comment>
-      <string>\u00E0B1\u00E0B2\u00E0B3\u00E0B4</string>
+      <comment>numbersign asterisk currency section paragraph periodcentered Delta dagger daggerdbl bullet triangularbullet referencemark nabla infinity pluscircle minuscircle multiplycircle fractioncircle leftFloor rightFloor bottomLeftCorner bottomRightCorner onecircle twocircle threecircle fourcircle fivecircle sixcircle sevencircle eightcircle ninecircle tencircle elevencircle twelvecircle thirteencircle fourteencircle fifteencircle sixteencircle seventeencircle eighteencircle nineteencircle twentycircle elevenblackcircle twelveblackcircle thirteenblackcircle fourteenblackcircle fifteenblackcircle sixteenblackcircle seventeenblackcircle eighteenblackcircle nineteenblackcircle twentyblackcircle zeroblackcircle lozenge blackstar whitestar fourBalloonSpokedAsterisk heavyFourBalloonSpokedAsterisk blackFourPointedStar whiteFourPointedStar whitestarcircle pinwheelStar eightPointedBlackStar sixPointedBlackStar heavyEightPointedRectilinearBlackStar teardropSpokedAsterisk whiteXBlackDiamond oneblackcircle twoblackcircle threeblackcircle fourblackcircle fiveblackcircle sixblackcircle sevenblackcircle eightblackcircle nineblackcircle tenblackcircle bottomleftHalfBracket bottomrightHalfBracket tripledagger refasc refdesc refuc refbox</comment>
+      <string>#*\u0000A4\u0000A7\u0000B6\u0000B7\u000394\u002020\u002021\u002022\u002023\u00203B\u002207\u00221E\u002295\u002296\u002297\u002298\u00230A\u00230B\u00231E\u00231F\u002460\u002461\u002462\u002463\u002464\u002465\u002466\u002467\u002468\u002469\u00246A\u00246B\u00246C\u00246D\u00246E\u00246F\u002470\u002471\u002472\u002473\u0024EB\u0024EC\u0024ED\u0024EE\u0024EF\u0024F0\u0024F1\u0024F2\u0024F3\u0024F4\u0024FF\u0025CA\u002605\u002606\u002723\u002724\u002726\u002727\u00272A\u00272F\u002734\u002736\u002738\u00273B\u002756\u002776\u002777\u002778\u002779\u00277A\u00277B\u00277C\u00277D\u00277E\u00277F\u002E24\u002E25\u002E4B\u00E0B1\u00E0B2\u00E0B3\u00E0B4</string>
     </test>
   </testgroup>
 </ftml>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftFloor" format="2">
+  <advance width="404"/>
+  <unicode hex="230A"/>
+  <note>
+uni230A
+</note>
+  <anchor x="202" y="0" name="center"/>
+  <outline>
+    <contour>
+      <point x="65" y="-60" type="line"/>
+      <point x="339" y="-60" type="line"/>
+      <point x="339" y="-35" type="line"/>
+      <point x="91" y="-35" type="line"/>
+      <point x="91" y="774" type="line"/>
+      <point x="65" y="774" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>1480</integer>
+    </dict>
+  </lib>
+</glyph>
