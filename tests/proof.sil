@@ -1,0 +1,20 @@
+\begin[class=fontproof]{document}
+\bidi-off
+\setTestFont[]
+
+\patterngroup[name="top"]{#*¤§¶·Δ†‡•‣※∇∞⊕⊖⊗⊘◊★☆✣✤✦✧✪✯✴✶✸✻❖⹋}
+\patterngroup[name="digits"]{①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳⓿❶❷❸❹❺❻❼❽❾❿⓫⓬⓭⓮⓯⓰⓱⓲⓳⓴}
+
+\pattern[chars="T",reps="group_top",format="table",heading=Top]{T}
+\pattern[chars="D",reps="group_digits",format="table",heading=Digits]{D}
+
+\section{Baseline}
+
+\proof{⌊⌋}
+\proof{⌞⌟}
+\proof{⸤⸥}
+
+\section{Glyphs}
+\repertoire
+
+\end{document}
