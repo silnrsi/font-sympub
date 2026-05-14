@@ -21,3 +21,24 @@ designspace('source/SymPub.designspace',
             woff = woff('web/${DS:FILENAME_BASE}',
                 metadata = f'../source/SymPub-WOFF-metadata.xml')
 )
+
+variable = package(
+    appname = APPNAME + '-variable',
+    version = VERSION,
+    docdir = {'documentation': 'documentation', 'variable/web': 'web'}
+)
+
+stem = APPNAME
+font(target = process(f'variable/{stem}.ttf',
+    cmd('gftools fix-font --include-source-fixes -o ${TGT} ${DEP}'),
+    cmd('../tools/genstat.sh ${DEP} ${TGT}')
+    ),
+    source = f'source/variable/{stem}.designspace',
+    params = '--feature-writer None --filter DecomposeTransformedComponentsFilter',
+    version = VERSION,
+    woff = woff(f'variable/web/{stem}.woff2', type='woff2',
+        metadata = f'../source/{APPNAME}-WOFF-metadata.xml',
+        dontship = True),
+    package = variable,
+    no_test = True
+)
