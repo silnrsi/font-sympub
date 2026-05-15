@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>SymPub</string>
   <key>openTypeHeadCreated</key>
-  <string>2026/05/15 09:21:17</string>
+  <string>2026/05/15 09:53:14</string>
   <key>openTypeHheaAscender</key>
   <integer>966</integer>
   <key>openTypeHheaDescender</key>
@@ -23,7 +23,7 @@
   <key>openTypeNameDescription</key>
   <string>A font of symbols for representing invisible characters</string>
   <key>openTypeNameDesigner</key>
-  <string>Victor Gaultney</string>
+  <string>Noto designers</string>
   <key>openTypeNameDesignerURL</key>
   <string>https://software.sil.org/wstech/</string>
   <key>openTypeNameLicense</key>
@@ -185,11 +185,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <array>
       <dict>
         <key>name</key>
-        <string>Victor Gaultney</string>
+        <string>Noto designers</string>
         <key>role</key>
         <string>Designer</string>
-        <key>url</key>
-        <string>https://software.sil.org/wstech/</string>
       </dict>
     </array>
   </dict>
