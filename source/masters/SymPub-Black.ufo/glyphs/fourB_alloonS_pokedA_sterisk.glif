@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fourBalloonSpokedAsterisk" format="2">
-  <advance width="870" height="1699"/>
+  <advance width="870"/>
   <unicode hex="2723"/>
   <note>
 uni2723
@@ -106,8 +106,6 @@ uni2723
     <dict>
       <key>public.markColor</key>
       <string>0.04,0.57,0.04,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>1069</integer>
     </dict>
   </lib>
 </glyph>

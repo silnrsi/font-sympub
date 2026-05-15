@@ -45,11 +45,9 @@ uni2464
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>PC</string>
+      <string>CP</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>1480</integer>
     </dict>
   </lib>
 </glyph>

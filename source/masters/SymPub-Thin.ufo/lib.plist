@@ -44,7 +44,7 @@
   <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
   <string/>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
-  <integer>400</integer>
+  <integer>26</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
   <integer>100</integer>
   <key>com.schriftgestaltung.fontMasterOrder</key>
@@ -54,7 +54,7 @@
   <key>com.schriftgestaltung.weight</key>
   <string>Regular</string>
   <key>com.schriftgestaltung.weightValue</key>
-  <integer>400</integer>
+  <integer>26</integer>
   <key>com.schriftgestaltung.width</key>
   <string>Regular</string>
   <key>com.schriftgestaltung.widthValue</key>

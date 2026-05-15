@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pinwheelStar" format="2">
-  <advance width="894" height="1699"/>
+  <advance width="894"/>
   <unicode hex="272F"/>
   <note>
 uni272F
@@ -48,8 +48,6 @@ uni272F
     <dict>
       <key>public.markColor</key>
       <string>0.04,0.57,0.04,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>1069</integer>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="whiteXBlackDiamond" format="2">
-  <advance width="1108" height="1699"/>
+  <advance width="1108"/>
   <unicode hex="2756"/>
   <note>
 uni2756
@@ -35,8 +35,6 @@ uni2756
     <dict>
       <key>public.markColor</key>
       <string>0.04,0.57,0.04,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>1069</integer>
     </dict>
   </lib>
 </glyph>

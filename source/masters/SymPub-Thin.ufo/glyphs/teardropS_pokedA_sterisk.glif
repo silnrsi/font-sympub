@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="teardropSpokedAsterisk" format="2">
-  <advance width="750" height="1699"/>
+  <advance width="750"/>
   <unicode hex="273B"/>
   <note>
 uni273B
@@ -109,8 +109,6 @@ uni273B
     <dict>
       <key>public.markColor</key>
       <string>0.04,0.57,0.04,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>1069</integer>
     </dict>
   </lib>
 </glyph>

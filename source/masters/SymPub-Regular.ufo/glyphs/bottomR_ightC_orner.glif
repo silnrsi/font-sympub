@@ -20,8 +20,6 @@ uni231F
     <dict>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>1480</integer>
     </dict>
   </lib>
 </glyph>

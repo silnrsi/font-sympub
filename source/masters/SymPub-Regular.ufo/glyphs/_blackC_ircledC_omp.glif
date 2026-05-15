@@ -22,8 +22,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
-      <key>public.verticalOrigin</key>
-      <integer>1480</integer>
     </dict>
   </lib>
 </glyph>

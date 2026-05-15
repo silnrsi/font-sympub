@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>SymPub</string>
   <key>openTypeHeadCreated</key>
-  <string>2026/05/13 19:49:54</string>
+  <string>2026/05/15 09:12:21</string>
   <key>openTypeHheaAscender</key>
   <integer>966</integer>
   <key>openTypeHheaDescender</key>
@@ -165,10 +165,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   </array>
   <key>postscriptFontName</key>
   <string>SymPub-Regular</string>
-  <key>postscriptStemSnapH</key>
-  <array/>
-  <key>postscriptStemSnapV</key>
-  <array/>
   <key>postscriptUnderlinePosition</key>
   <integer>-100</integer>
   <key>postscriptUnderlineThickness</key>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eightPointedBlackStar" format="2">
-  <advance width="876" height="1699"/>
+  <advance width="876"/>
   <unicode hex="2734"/>
   <note>
 uni2734
@@ -37,8 +37,6 @@ uni2734
     <dict>
       <key>public.markColor</key>
       <string>0.04,0.57,0.04,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>1069</integer>
     </dict>
   </lib>
 </glyph>

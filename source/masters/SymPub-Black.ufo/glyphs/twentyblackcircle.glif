@@ -78,15 +78,13 @@ uni24F4
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>PPPC</string>
+      <string>CPPP</string>
       <key>com.schriftgestaltung.componentsLocked</key>
       <array>
         <true/>
       </array>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>1480</integer>
     </dict>
   </lib>
 </glyph>
