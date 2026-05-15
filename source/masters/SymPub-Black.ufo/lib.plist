@@ -26,7 +26,9 @@
   <key>com.schriftgestaltung.Glyphs.fontUserData</key>
   <dict/>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3337</string>
+  <string>3436</string>
+  <key>com.schriftgestaltung.customName</key>
+  <string>Black</string>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
@@ -62,6 +64,7 @@
   <key>public.glyphOrder</key>
   <array>
     <string>.notdef</string>
+    <string>space</string>
     <string>numbersign</string>
     <string>asterisk</string>
     <string>currency</string>

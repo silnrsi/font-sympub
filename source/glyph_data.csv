@@ -1,6 +1,7 @@
 glyph_name,ps_name,sort_final,sort_design,USV
 .notdef,.notdef,0,0,
-numbersign,numbersign,1,1,0023
+space,space,1,1,0020
+numbersign,numbersign,1.1,1.1,0023
 asterisk,asterisk,2,2,002A
 currency,currency,3,3,00A4
 section,section,4,4,00A7
