@@ -29,14 +29,14 @@ variable = package(
 )
 
 stem = APPNAME
-font(target = process(f'variable/{stem}.ttf',
+font(target = process(f'variable/{stem}TestA.ttf',
     cmd('gftools fix-font --include-source-fixes -o ${TGT} ${DEP}'),
     cmd('../tools/genstat.sh ${DEP} ${TGT}')
     ),
     source = f'source/variable/{stem}.designspace',
     params = '--feature-writer None --filter DecomposeTransformedComponentsFilter',
     version = VERSION,
-    woff = woff(f'variable/web/{stem}.woff2', type='woff2',
+    woff = woff(f'variable/web/{stem}TestA.woff2', type='woff2',
         metadata = f'../source/{APPNAME}-WOFF-metadata.xml',
         dontship = True),
     package = variable,
