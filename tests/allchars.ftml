@@ -47,323 +47,127 @@
     <title>AllChars auto</title>
   </head>
   <testgroup label="Encoded characters">
-    <test background="#f0fff0" label="U+0023">
+    <test background="#f0fff0" label="U+0020">
+      <comment>space</comment>
+      <string>\u00F130 \u00F131</string>
+    </test>
+    <test label="U+0023">
       <comment>numbersign</comment>
       <string>#</string>
     </test>
-    <test background="#f0fff0" label="U+002A">
+    <test label="U+002A">
       <comment>asterisk</comment>
       <string>*</string>
     </test>
-    <test background="#f0fff0" label="U+00A4">
+    <test label="U+00A4">
       <comment>currency</comment>
       <string>\u0000A4</string>
     </test>
-    <test background="#f0fff0" label="U+00A7">
+    <test label="U+00A7">
       <comment>section</comment>
       <string>\u0000A7</string>
     </test>
-    <test background="#f0fff0" label="U+00B6">
+    <test label="U+00B6">
       <comment>paragraph</comment>
-      <string>\u0000B6</string>
+      <string>\u0000B6 \u0000B7</string>
     </test>
-    <test background="#f0fff0" label="U+00B7">
-      <comment>periodcentered</comment>
-      <string>\u0000B7</string>
-    </test>
-    <test background="#f0fff0" label="U+0394">
+    <test label="U+0394">
       <comment>Delta</comment>
       <string>\u000394</string>
     </test>
-    <test background="#f0fff0" label="U+2020">
+    <test label="U+2020">
       <comment>dagger</comment>
-      <string>\u002020</string>
+      <string>\u002020 \u002021 \u002022 \u002023</string>
     </test>
-    <test background="#f0fff0" label="U+2021">
-      <comment>daggerdbl</comment>
-      <string>\u002021</string>
-    </test>
-    <test background="#f0fff0" label="U+2022">
-      <comment>bullet</comment>
-      <string>\u002022</string>
-    </test>
-    <test background="#f0fff0" label="U+2023">
-      <comment>triangularbullet</comment>
-      <string>\u002023</string>
-    </test>
-    <test background="#f0fff0" label="U+203B">
+    <test label="U+203B">
       <comment>referencemark</comment>
       <string>\u00203B</string>
     </test>
-    <test background="#f0fff0" label="U+2207">
+    <test label="U+2207">
       <comment>nabla</comment>
       <string>\u002207</string>
     </test>
-    <test background="#f0fff0" label="U+221E">
+    <test label="U+221E">
       <comment>infinity</comment>
       <string>\u00221E</string>
     </test>
-    <test background="#f0fff0" label="U+2295">
+    <test label="U+2295">
       <comment>pluscircle</comment>
-      <string>\u002295</string>
+      <string>\u002295 \u002296 \u002297 \u002298</string>
     </test>
-    <test background="#f0fff0" label="U+2296">
-      <comment>minuscircle</comment>
-      <string>\u002296</string>
-    </test>
-    <test background="#f0fff0" label="U+2297">
-      <comment>multiplycircle</comment>
-      <string>\u002297</string>
-    </test>
-    <test background="#f0fff0" label="U+2298">
-      <comment>fractioncircle</comment>
-      <string>\u002298</string>
-    </test>
-    <test background="#f0fff0" label="U+230A">
+    <test label="U+230A">
       <comment>leftFloor</comment>
-      <string>\u00230A</string>
+      <string>\u00230A \u00230B</string>
     </test>
-    <test background="#f0fff0" label="U+230B">
-      <comment>rightFloor</comment>
-      <string>\u00230B</string>
-    </test>
-    <test background="#f0fff0" label="U+231E">
+    <test label="U+231E">
       <comment>bottomLeftCorner</comment>
-      <string>\u00231E</string>
+      <string>\u00231E \u00231F</string>
     </test>
-    <test background="#f0fff0" label="U+231F">
-      <comment>bottomRightCorner</comment>
-      <string>\u00231F</string>
-    </test>
-    <test background="#f0fff0" label="U+2460">
+    <test label="U+2460">
       <comment>onecircle</comment>
-      <string>\u002460</string>
+      <string>\u002460 \u002461 \u002462 \u002463 \u002464 \u002465 \u002466 \u002467 \u002468 \u002469 \u00246A \u00246B \u00246C \u00246D \u00246E \u00246F \u002470 \u002471 \u002472 \u002473</string>
     </test>
-    <test background="#f0fff0" label="U+2461">
-      <comment>twocircle</comment>
-      <string>\u002461</string>
-    </test>
-    <test background="#f0fff0" label="U+2462">
-      <comment>threecircle</comment>
-      <string>\u002462</string>
-    </test>
-    <test background="#f0fff0" label="U+2463">
-      <comment>fourcircle</comment>
-      <string>\u002463</string>
-    </test>
-    <test background="#f0fff0" label="U+2464">
-      <comment>fivecircle</comment>
-      <string>\u002464</string>
-    </test>
-    <test background="#f0fff0" label="U+2465">
-      <comment>sixcircle</comment>
-      <string>\u002465</string>
-    </test>
-    <test background="#f0fff0" label="U+2466">
-      <comment>sevencircle</comment>
-      <string>\u002466</string>
-    </test>
-    <test background="#f0fff0" label="U+2467">
-      <comment>eightcircle</comment>
-      <string>\u002467</string>
-    </test>
-    <test background="#f0fff0" label="U+2468">
-      <comment>ninecircle</comment>
-      <string>\u002468</string>
-    </test>
-    <test background="#f0fff0" label="U+2469">
-      <comment>tencircle</comment>
-      <string>\u002469</string>
-    </test>
-    <test background="#f0fff0" label="U+246A">
-      <comment>elevencircle</comment>
-      <string>\u00246A</string>
-    </test>
-    <test background="#f0fff0" label="U+246B">
-      <comment>twelvecircle</comment>
-      <string>\u00246B</string>
-    </test>
-    <test background="#f0fff0" label="U+246C">
-      <comment>thirteencircle</comment>
-      <string>\u00246C</string>
-    </test>
-    <test background="#f0fff0" label="U+246D">
-      <comment>fourteencircle</comment>
-      <string>\u00246D</string>
-    </test>
-    <test background="#f0fff0" label="U+246E">
-      <comment>fifteencircle</comment>
-      <string>\u00246E</string>
-    </test>
-    <test background="#f0fff0" label="U+246F">
-      <comment>sixteencircle</comment>
-      <string>\u00246F</string>
-    </test>
-    <test background="#f0fff0" label="U+2470">
-      <comment>seventeencircle</comment>
-      <string>\u002470</string>
-    </test>
-    <test background="#f0fff0" label="U+2471">
-      <comment>eighteencircle</comment>
-      <string>\u002471</string>
-    </test>
-    <test background="#f0fff0" label="U+2472">
-      <comment>nineteencircle</comment>
-      <string>\u002472</string>
-    </test>
-    <test background="#f0fff0" label="U+2473">
-      <comment>twentycircle</comment>
-      <string>\u002473</string>
-    </test>
-    <test background="#f0fff0" label="U+24EB">
+    <test label="U+24EB">
       <comment>elevenblackcircle</comment>
-      <string>\u0024EB</string>
+      <string>\u0024EB \u0024EC \u0024ED \u0024EE \u0024EF \u0024F0 \u0024F1 \u0024F2 \u0024F3 \u0024F4</string>
     </test>
-    <test background="#f0fff0" label="U+24EC">
-      <comment>twelveblackcircle</comment>
-      <string>\u0024EC</string>
-    </test>
-    <test background="#f0fff0" label="U+24ED">
-      <comment>thirteenblackcircle</comment>
-      <string>\u0024ED</string>
-    </test>
-    <test background="#f0fff0" label="U+24EE">
-      <comment>fourteenblackcircle</comment>
-      <string>\u0024EE</string>
-    </test>
-    <test background="#f0fff0" label="U+24EF">
-      <comment>fifteenblackcircle</comment>
-      <string>\u0024EF</string>
-    </test>
-    <test background="#f0fff0" label="U+24F0">
-      <comment>sixteenblackcircle</comment>
-      <string>\u0024F0</string>
-    </test>
-    <test background="#f0fff0" label="U+24F1">
-      <comment>seventeenblackcircle</comment>
-      <string>\u0024F1</string>
-    </test>
-    <test background="#f0fff0" label="U+24F2">
-      <comment>eighteenblackcircle</comment>
-      <string>\u0024F2</string>
-    </test>
-    <test background="#f0fff0" label="U+24F3">
-      <comment>nineteenblackcircle</comment>
-      <string>\u0024F3</string>
-    </test>
-    <test background="#f0fff0" label="U+24F4">
-      <comment>twentyblackcircle</comment>
-      <string>\u0024F4</string>
-    </test>
-    <test background="#f0fff0" label="U+24FF">
+    <test label="U+24FF">
       <comment>zeroblackcircle</comment>
       <string>\u0024FF</string>
     </test>
-    <test background="#f0fff0" label="U+25CA">
+    <test label="U+25CA">
       <comment>lozenge</comment>
       <string>\u0025CA</string>
     </test>
-    <test background="#f0fff0" label="U+2605">
+    <test label="U+2605">
       <comment>blackstar</comment>
-      <string>\u002605</string>
+      <string>\u002605 \u002606</string>
     </test>
-    <test background="#f0fff0" label="U+2606">
-      <comment>whitestar</comment>
-      <string>\u002606</string>
-    </test>
-    <test background="#f0fff0" label="U+2723">
+    <test label="U+2723">
       <comment>fourBalloonSpokedAsterisk</comment>
-      <string>\u002723</string>
+      <string>\u002723 \u002724</string>
     </test>
-    <test background="#f0fff0" label="U+2724">
-      <comment>heavyFourBalloonSpokedAsterisk</comment>
-      <string>\u002724</string>
-    </test>
-    <test background="#f0fff0" label="U+2726">
+    <test label="U+2726">
       <comment>blackFourPointedStar</comment>
-      <string>\u002726</string>
+      <string>\u002726 \u002727</string>
     </test>
-    <test background="#f0fff0" label="U+2727">
-      <comment>whiteFourPointedStar</comment>
-      <string>\u002727</string>
-    </test>
-    <test background="#f0fff0" label="U+272A">
+    <test label="U+272A">
       <comment>whitestarcircle</comment>
       <string>\u00272A</string>
     </test>
-    <test background="#f0fff0" label="U+272F">
+    <test label="U+272F">
       <comment>pinwheelStar</comment>
       <string>\u00272F</string>
     </test>
-    <test background="#f0fff0" label="U+2734">
+    <test label="U+2734">
       <comment>eightPointedBlackStar</comment>
       <string>\u002734</string>
     </test>
-    <test background="#f0fff0" label="U+2736">
+    <test label="U+2736">
       <comment>sixPointedBlackStar</comment>
       <string>\u002736</string>
     </test>
-    <test background="#f0fff0" label="U+2738">
+    <test label="U+2738">
       <comment>heavyEightPointedRectilinearBlackStar</comment>
       <string>\u002738</string>
     </test>
-    <test background="#f0fff0" label="U+273B">
+    <test label="U+273B">
       <comment>teardropSpokedAsterisk</comment>
       <string>\u00273B</string>
     </test>
-    <test background="#f0fff0" label="U+2756">
+    <test label="U+2756">
       <comment>whiteXBlackDiamond</comment>
       <string>\u002756</string>
     </test>
-    <test background="#f0fff0" label="U+2776">
+    <test label="U+2776">
       <comment>oneblackcircle</comment>
-      <string>\u002776</string>
+      <string>\u002776 \u002777 \u002778 \u002779 \u00277A \u00277B \u00277C \u00277D \u00277E \u00277F</string>
     </test>
-    <test background="#f0fff0" label="U+2777">
-      <comment>twoblackcircle</comment>
-      <string>\u002777</string>
-    </test>
-    <test background="#f0fff0" label="U+2778">
-      <comment>threeblackcircle</comment>
-      <string>\u002778</string>
-    </test>
-    <test background="#f0fff0" label="U+2779">
-      <comment>fourblackcircle</comment>
-      <string>\u002779</string>
-    </test>
-    <test background="#f0fff0" label="U+277A">
-      <comment>fiveblackcircle</comment>
-      <string>\u00277A</string>
-    </test>
-    <test background="#f0fff0" label="U+277B">
-      <comment>sixblackcircle</comment>
-      <string>\u00277B</string>
-    </test>
-    <test background="#f0fff0" label="U+277C">
-      <comment>sevenblackcircle</comment>
-      <string>\u00277C</string>
-    </test>
-    <test background="#f0fff0" label="U+277D">
-      <comment>eightblackcircle</comment>
-      <string>\u00277D</string>
-    </test>
-    <test background="#f0fff0" label="U+277E">
-      <comment>nineblackcircle</comment>
-      <string>\u00277E</string>
-    </test>
-    <test background="#f0fff0" label="U+277F">
-      <comment>tenblackcircle</comment>
-      <string>\u00277F</string>
-    </test>
-    <test background="#f0fff0" label="U+2E24">
+    <test label="U+2E24">
       <comment>bottomleftHalfBracket</comment>
-      <string>\u002E24</string>
+      <string>\u002E24 \u002E25</string>
     </test>
-    <test background="#f0fff0" label="U+2E25">
-      <comment>bottomrightHalfBracket</comment>
-      <string>\u002E25</string>
-    </test>
-    <test background="#f0fff0" label="U+2E4B">
+    <test label="U+2E4B">
       <comment>tripledagger</comment>
       <string>\u002E4B</string>
     </test>

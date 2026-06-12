@@ -4,6 +4,7 @@ These are the encoded characters in the SymPub fonts. The characters from the fo
 
 Image | USV | Description
 ----- | --- | -----------
+![](images/img_0020.png) | U+0020 | SPACE
 ![](images/img_0023.png) | U+0023 | NUMBER SIGN
 ![](images/img_002A.png) | U+002A | ASTERISK
 ![](images/img_00A4.png) | U+00A4 | CURRENCY SIGN

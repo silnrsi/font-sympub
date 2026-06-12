@@ -25,7 +25,7 @@ designspace('source/SymPub.designspace',
 variable = package(
     appname = APPNAME + '-variable',
     version = VERSION,
-    docdir = {'documentation': 'documentation', 'variable/web': 'web'}
+    docdir = {'documentation': 'documentation', 'variable/web': 'variable/web'}
 )
 
 stem = APPNAME

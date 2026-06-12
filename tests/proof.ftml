@@ -45,7 +45,8 @@
     <title>Proof auto</title>
   </head>
   <testgroup label="Proof">
-    <test label="U+0023
+    <test label="U+0020
+U+0023
 U+002A
 U+00A4
 U+00A7
@@ -129,8 +130,8 @@ U+E0B1
 U+E0B2
 U+E0B3
 U+E0B4">
-      <comment>numbersign asterisk currency section paragraph periodcentered Delta dagger daggerdbl bullet triangularbullet referencemark nabla infinity pluscircle minuscircle multiplycircle fractioncircle leftFloor rightFloor bottomLeftCorner bottomRightCorner onecircle twocircle threecircle fourcircle fivecircle sixcircle sevencircle eightcircle ninecircle tencircle elevencircle twelvecircle thirteencircle fourteencircle fifteencircle sixteencircle seventeencircle eighteencircle nineteencircle twentycircle elevenblackcircle twelveblackcircle thirteenblackcircle fourteenblackcircle fifteenblackcircle sixteenblackcircle seventeenblackcircle eighteenblackcircle nineteenblackcircle twentyblackcircle zeroblackcircle lozenge blackstar whitestar fourBalloonSpokedAsterisk heavyFourBalloonSpokedAsterisk blackFourPointedStar whiteFourPointedStar whitestarcircle pinwheelStar eightPointedBlackStar sixPointedBlackStar heavyEightPointedRectilinearBlackStar teardropSpokedAsterisk whiteXBlackDiamond oneblackcircle twoblackcircle threeblackcircle fourblackcircle fiveblackcircle sixblackcircle sevenblackcircle eightblackcircle nineblackcircle tenblackcircle bottomleftHalfBracket bottomrightHalfBracket tripledagger refasc refdesc refuc refbox</comment>
-      <string>#*\u0000A4\u0000A7\u0000B6\u0000B7\u000394\u002020\u002021\u002022\u002023\u00203B\u002207\u00221E\u002295\u002296\u002297\u002298\u00230A\u00230B\u00231E\u00231F\u002460\u002461\u002462\u002463\u002464\u002465\u002466\u002467\u002468\u002469\u00246A\u00246B\u00246C\u00246D\u00246E\u00246F\u002470\u002471\u002472\u002473\u0024EB\u0024EC\u0024ED\u0024EE\u0024EF\u0024F0\u0024F1\u0024F2\u0024F3\u0024F4\u0024FF\u0025CA\u002605\u002606\u002723\u002724\u002726\u002727\u00272A\u00272F\u002734\u002736\u002738\u00273B\u002756\u002776\u002777\u002778\u002779\u00277A\u00277B\u00277C\u00277D\u00277E\u00277F\u002E24\u002E25\u002E4B\u00E0B1\u00E0B2\u00E0B3\u00E0B4</string>
+      <comment>space numbersign asterisk currency section paragraph periodcentered Delta dagger daggerdbl bullet triangularbullet referencemark nabla infinity pluscircle minuscircle multiplycircle fractioncircle leftFloor rightFloor bottomLeftCorner bottomRightCorner onecircle twocircle threecircle fourcircle fivecircle sixcircle sevencircle eightcircle ninecircle tencircle elevencircle twelvecircle thirteencircle fourteencircle fifteencircle sixteencircle seventeencircle eighteencircle nineteencircle twentycircle elevenblackcircle twelveblackcircle thirteenblackcircle fourteenblackcircle fifteenblackcircle sixteenblackcircle seventeenblackcircle eighteenblackcircle nineteenblackcircle twentyblackcircle zeroblackcircle lozenge blackstar whitestar fourBalloonSpokedAsterisk heavyFourBalloonSpokedAsterisk blackFourPointedStar whiteFourPointedStar whitestarcircle pinwheelStar eightPointedBlackStar sixPointedBlackStar heavyEightPointedRectilinearBlackStar teardropSpokedAsterisk whiteXBlackDiamond oneblackcircle twoblackcircle threeblackcircle fourblackcircle fiveblackcircle sixblackcircle sevenblackcircle eightblackcircle nineblackcircle tenblackcircle bottomleftHalfBracket bottomrightHalfBracket tripledagger refasc refdesc refuc refbox</comment>
+      <string>\u00F130 #*\u0000A4\u0000A7\u0000B6\u0000B7\u000394\u002020\u002021\u002022\u002023\u00203B\u002207\u00221E\u002295\u002296\u002297\u002298\u00230A\u00230B\u00231E\u00231F\u002460\u002461\u002462\u002463\u002464\u002465\u002466\u002467\u002468\u002469\u00246A\u00246B\u00246C\u00246D\u00246E\u00246F\u002470\u002471\u002472\u002473\u0024EB\u0024EC\u0024ED\u0024EE\u0024EF\u0024F0\u0024F1\u0024F2\u0024F3\u0024F4\u0024FF\u0025CA\u002605\u002606\u002723\u002724\u002726\u002727\u00272A\u00272F\u002734\u002736\u002738\u00273B\u002756\u002776\u002777\u002778\u002779\u00277A\u00277B\u00277C\u00277D\u00277E\u00277F\u002E24\u002E25\u002E4B\u00E0B1\u00E0B2\u00E0B3\u00E0B4</string>
     </test>
   </testgroup>
 </ftml>
