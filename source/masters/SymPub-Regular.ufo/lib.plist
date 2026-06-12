@@ -81,8 +81,12 @@
     <string>minuscircle</string>
     <string>multiplycircle</string>
     <string>fractioncircle</string>
+    <string>leftCeiling</string>
+    <string>rightCeiling</string>
     <string>leftFloor</string>
     <string>rightFloor</string>
+    <string>topLeftCorner</string>
+    <string>topRightCorner</string>
     <string>bottomLeftCorner</string>
     <string>bottomRightCorner</string>
     <string>onecircle</string>
@@ -140,6 +144,8 @@
     <string>eightblackcircle</string>
     <string>nineblackcircle</string>
     <string>tenblackcircle</string>
+    <string>topleftHalfBracket</string>
+    <string>toprightHalfBracket</string>
     <string>bottomleftHalfBracket</string>
     <string>bottomrightHalfBracket</string>
     <string>tripledagger</string>
@@ -147,6 +153,8 @@
     <string>refdesc</string>
     <string>refuc</string>
     <string>refbox</string>
+    <string>sidebearingleft</string>
+    <string>sidebearingright</string>
     <string>_blackCircledComp</string>
     <string>_circledComp</string>
   </array>
@@ -204,6 +212,8 @@
     <string>uni2738</string>
     <key>heavyFourBalloonSpokedAsterisk</key>
     <string>uni2724</string>
+    <key>leftCeiling</key>
+    <string>uni2308</string>
     <key>leftFloor</key>
     <string>uni230A</string>
     <key>minuscircle</key>
@@ -238,6 +248,8 @@
     <string>uni203B</string>
     <key>refuc</key>
     <string>uniE0B3</string>
+    <key>rightCeiling</key>
+    <string>uni2309</string>
     <key>rightFloor</key>
     <string>uni230B</string>
     <key>sevenblackcircle</key>
@@ -248,6 +260,10 @@
     <string>uni24F1</string>
     <key>seventeencircle</key>
     <string>uni2470</string>
+    <key>sidebearingleft</key>
+    <string>uniF130</string>
+    <key>sidebearingright</key>
+    <string>uniF131</string>
     <key>sixPointedBlackStar</key>
     <string>uni2736</string>
     <key>sixblackcircle</key>
@@ -272,6 +288,14 @@
     <string>uni2778</string>
     <key>threecircle</key>
     <string>uni2462</string>
+    <key>topLeftCorner</key>
+    <string>uni231C</string>
+    <key>topRightCorner</key>
+    <string>uni231D</string>
+    <key>topleftHalfBracket</key>
+    <string>uni2E22</string>
+    <key>toprightHalfBracket</key>
+    <string>uni2E23</string>
     <key>triangularbullet</key>
     <string>uni2023</string>
     <key>tripledagger</key>

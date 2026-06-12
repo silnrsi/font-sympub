@@ -64,8 +64,12 @@ U+2295
 U+2296
 U+2297
 U+2298
+U+2308
+U+2309
 U+230A
 U+230B
+U+231C
+U+231D
 U+231E
 U+231F
 U+2460
@@ -123,15 +127,19 @@ U+277C
 U+277D
 U+277E
 U+277F
+U+2E22
+U+2E23
 U+2E24
 U+2E25
 U+2E4B
 U+E0B1
 U+E0B2
 U+E0B3
-U+E0B4">
-      <comment>space numbersign asterisk currency section paragraph periodcentered Delta dagger daggerdbl bullet triangularbullet referencemark nabla infinity pluscircle minuscircle multiplycircle fractioncircle leftFloor rightFloor bottomLeftCorner bottomRightCorner onecircle twocircle threecircle fourcircle fivecircle sixcircle sevencircle eightcircle ninecircle tencircle elevencircle twelvecircle thirteencircle fourteencircle fifteencircle sixteencircle seventeencircle eighteencircle nineteencircle twentycircle elevenblackcircle twelveblackcircle thirteenblackcircle fourteenblackcircle fifteenblackcircle sixteenblackcircle seventeenblackcircle eighteenblackcircle nineteenblackcircle twentyblackcircle zeroblackcircle lozenge blackstar whitestar fourBalloonSpokedAsterisk heavyFourBalloonSpokedAsterisk blackFourPointedStar whiteFourPointedStar whitestarcircle pinwheelStar eightPointedBlackStar sixPointedBlackStar heavyEightPointedRectilinearBlackStar teardropSpokedAsterisk whiteXBlackDiamond oneblackcircle twoblackcircle threeblackcircle fourblackcircle fiveblackcircle sixblackcircle sevenblackcircle eightblackcircle nineblackcircle tenblackcircle bottomleftHalfBracket bottomrightHalfBracket tripledagger refasc refdesc refuc refbox</comment>
-      <string>\u00F130 #*\u0000A4\u0000A7\u0000B6\u0000B7\u000394\u002020\u002021\u002022\u002023\u00203B\u002207\u00221E\u002295\u002296\u002297\u002298\u00230A\u00230B\u00231E\u00231F\u002460\u002461\u002462\u002463\u002464\u002465\u002466\u002467\u002468\u002469\u00246A\u00246B\u00246C\u00246D\u00246E\u00246F\u002470\u002471\u002472\u002473\u0024EB\u0024EC\u0024ED\u0024EE\u0024EF\u0024F0\u0024F1\u0024F2\u0024F3\u0024F4\u0024FF\u0025CA\u002605\u002606\u002723\u002724\u002726\u002727\u00272A\u00272F\u002734\u002736\u002738\u00273B\u002756\u002776\u002777\u002778\u002779\u00277A\u00277B\u00277C\u00277D\u00277E\u00277F\u002E24\u002E25\u002E4B\u00E0B1\u00E0B2\u00E0B3\u00E0B4</string>
+U+E0B4
+U+F130
+U+F131">
+      <comment>space numbersign asterisk currency section paragraph periodcentered Delta dagger daggerdbl bullet triangularbullet referencemark nabla infinity pluscircle minuscircle multiplycircle fractioncircle leftCeiling rightCeiling leftFloor rightFloor topLeftCorner topRightCorner bottomLeftCorner bottomRightCorner onecircle twocircle threecircle fourcircle fivecircle sixcircle sevencircle eightcircle ninecircle tencircle elevencircle twelvecircle thirteencircle fourteencircle fifteencircle sixteencircle seventeencircle eighteencircle nineteencircle twentycircle elevenblackcircle twelveblackcircle thirteenblackcircle fourteenblackcircle fifteenblackcircle sixteenblackcircle seventeenblackcircle eighteenblackcircle nineteenblackcircle twentyblackcircle zeroblackcircle lozenge blackstar whitestar fourBalloonSpokedAsterisk heavyFourBalloonSpokedAsterisk blackFourPointedStar whiteFourPointedStar whitestarcircle pinwheelStar eightPointedBlackStar sixPointedBlackStar heavyEightPointedRectilinearBlackStar teardropSpokedAsterisk whiteXBlackDiamond oneblackcircle twoblackcircle threeblackcircle fourblackcircle fiveblackcircle sixblackcircle sevenblackcircle eightblackcircle nineblackcircle tenblackcircle topleftHalfBracket toprightHalfBracket bottomleftHalfBracket bottomrightHalfBracket tripledagger refasc refdesc refuc refbox sidebearingleft sidebearingright</comment>
+      <string>\u00F130 #*\u0000A4\u0000A7\u0000B6\u0000B7\u000394\u002020\u002021\u002022\u002023\u00203B\u002207\u00221E\u002295\u002296\u002297\u002298\u002308\u002309\u00230A\u00230B\u00231C\u00231D\u00231E\u00231F\u002460\u002461\u002462\u002463\u002464\u002465\u002466\u002467\u002468\u002469\u00246A\u00246B\u00246C\u00246D\u00246E\u00246F\u002470\u002471\u002472\u002473\u0024EB\u0024EC\u0024ED\u0024EE\u0024EF\u0024F0\u0024F1\u0024F2\u0024F3\u0024F4\u0024FF\u0025CA\u002605\u002606\u002723\u002724\u002726\u002727\u00272A\u00272F\u002734\u002736\u002738\u00273B\u002756\u002776\u002777\u002778\u002779\u00277A\u00277B\u00277C\u00277D\u00277E\u00277F\u002E22\u002E23\u002E24\u002E25\u002E4B\u00E0B1\u00E0B2\u00E0B3\u00E0B4\u00F130\u00F131</string>
     </test>
   </testgroup>
 </ftml>

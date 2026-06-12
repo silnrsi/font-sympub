@@ -72,6 +72,8 @@
   <string>heavyF_ourB_alloonS_pokedA_sterisk.glif</string>
   <key>infinity</key>
   <string>infinity.glif</string>
+  <key>leftCeiling</key>
+  <string>leftC_eiling.glif</string>
   <key>leftFloor</key>
   <string>leftF_loor.glif</string>
   <key>lozenge</key>
@@ -114,6 +116,8 @@
   <string>referencemark.glif</string>
   <key>refuc</key>
   <string>refuc.glif</string>
+  <key>rightCeiling</key>
+  <string>rightC_eiling.glif</string>
   <key>rightFloor</key>
   <string>rightF_loor.glif</string>
   <key>section</key>
@@ -126,6 +130,10 @@
   <string>seventeenblackcircle.glif</string>
   <key>seventeencircle</key>
   <string>seventeencircle.glif</string>
+  <key>sidebearingleft</key>
+  <string>sidebearingleft.glif</string>
+  <key>sidebearingright</key>
+  <string>sidebearingright.glif</string>
   <key>sixPointedBlackStar</key>
   <string>sixP_ointedB_lackS_tar.glif</string>
   <key>sixblackcircle</key>
@@ -152,6 +160,14 @@
   <string>threeblackcircle.glif</string>
   <key>threecircle</key>
   <string>threecircle.glif</string>
+  <key>topLeftCorner</key>
+  <string>topL_eftC_orner.glif</string>
+  <key>topRightCorner</key>
+  <string>topR_ightC_orner.glif</string>
+  <key>topleftHalfBracket</key>
+  <string>topleftH_alfB_racket.glif</string>
+  <key>toprightHalfBracket</key>
+  <string>toprightH_alfB_racket.glif</string>
   <key>triangularbullet</key>
   <string>triangularbullet.glif</string>
   <key>tripledagger</key>

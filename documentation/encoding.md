@@ -23,8 +23,12 @@ Image | USV | Description
 ![](images/img_2296.png) | U+2296 | CIRCLED MINUS
 ![](images/img_2297.png) | U+2297 | CIRCLED TIMES
 ![](images/img_2298.png) | U+2298 | CIRCLED DIVISION SLASH
+![](images/img_2308.png) | U+2308 | LEFT CEILING
+![](images/img_2309.png) | U+2309 | RIGHT CEILING
 ![](images/img_230A.png) | U+230A | LEFT FLOOR
 ![](images/img_230B.png) | U+230B | RIGHT FLOOR
+![](images/img_231C.png) | U+231C | TOP LEFT CORNER
+![](images/img_231D.png) | U+231D | TOP RIGHT CORNER
 ![](images/img_231E.png) | U+231E | BOTTOM LEFT CORNER
 ![](images/img_231F.png) | U+231F | BOTTOM RIGHT CORNER
 ![](images/img_2460.png) | U+2460 | CIRCLED DIGIT ONE
@@ -82,6 +86,8 @@ Image | USV | Description
 ![](images/img_277D.png) | U+277D | DINGBAT NEGATIVE CIRCLED DIGIT EIGHT
 ![](images/img_277E.png) | U+277E | DINGBAT NEGATIVE CIRCLED DIGIT NINE
 ![](images/img_277F.png) | U+277F | DINGBAT NEGATIVE CIRCLED NUMBER TEN
+![](images/img_2E22.png) | U+2E22 | TOP LEFT HALF BRACKET
+![](images/img_2E23.png) | U+2E23 | TOP RIGHT HALF BRACKET
 ![](images/img_2E24.png) | U+2E24 | BOTTOM LEFT HALF BRACKET
 ![](images/img_2E25.png) | U+2E25 | BOTTOM RIGHT HALF BRACKET
 ![](images/img_2E4B.png) | U+2E4B | TRIPLE DAGGER
@@ -89,3 +95,5 @@ Image | USV | Description
 ![](images/img_E0B2.png) | U+E0B2 | size reference - descender
 ![](images/img_E0B3.png) | U+E0B3 | size reference - uppercase
 ![](images/img_E0B4.png) | U+E0B4 | size reference - box
+![](images/img_F130.png) | U+F130 | size reference - left side bearing
+![](images/img_F131.png) | U+F131 | size reference - right side bearing

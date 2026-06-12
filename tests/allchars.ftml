@@ -47,7 +47,7 @@
     <title>AllChars auto</title>
   </head>
   <testgroup label="Encoded characters">
-    <test background="#f0fff0" label="U+0020">
+    <test label="U+0020">
       <comment>space</comment>
       <string>\u00F130 \u00F131</string>
     </test>
@@ -95,9 +95,25 @@
       <comment>pluscircle</comment>
       <string>\u002295 \u002296 \u002297 \u002298</string>
     </test>
+    <test background="#f0fff0" label="U+2308">
+      <comment>leftCeiling</comment>
+      <string>\u002308</string>
+    </test>
+    <test background="#f0fff0" label="U+2309">
+      <comment>rightCeiling</comment>
+      <string>\u002309</string>
+    </test>
     <test label="U+230A">
       <comment>leftFloor</comment>
       <string>\u00230A \u00230B</string>
+    </test>
+    <test background="#f0fff0" label="U+231C">
+      <comment>topLeftCorner</comment>
+      <string>\u00231C</string>
+    </test>
+    <test background="#f0fff0" label="U+231D">
+      <comment>topRightCorner</comment>
+      <string>\u00231D</string>
     </test>
     <test label="U+231E">
       <comment>bottomLeftCorner</comment>
@@ -163,6 +179,14 @@
       <comment>oneblackcircle</comment>
       <string>\u002776 \u002777 \u002778 \u002779 \u00277A \u00277B \u00277C \u00277D \u00277E \u00277F</string>
     </test>
+    <test background="#f0fff0" label="U+2E22">
+      <comment>topleftHalfBracket</comment>
+      <string>\u002E22</string>
+    </test>
+    <test background="#f0fff0" label="U+2E23">
+      <comment>toprightHalfBracket</comment>
+      <string>\u002E23</string>
+    </test>
     <test label="U+2E24">
       <comment>bottomleftHalfBracket</comment>
       <string>\u002E24 \u002E25</string>
@@ -174,6 +198,14 @@
     <test label="U+E0B1">
       <comment>refasc</comment>
       <string>\u00E0B1 \u00E0B2 \u00E0B3 \u00E0B4</string>
+    </test>
+    <test background="#f0fff0" label="U+F130">
+      <comment>sidebearingleft</comment>
+      <string>\u00F130</string>
+    </test>
+    <test background="#f0fff0" label="U+F131">
+      <comment>sidebearingright</comment>
+      <string>\u00F131</string>
     </test>
   </testgroup>
 </ftml>
