@@ -8,8 +8,52 @@
   <string>D_elta.glif</string>
   <key>_blackCircledComp</key>
   <string>_blackC_ircledC_omp.glif</string>
+  <key>_circleblack</key>
+  <string>_circleblack.glif</string>
   <key>_circledComp</key>
   <string>_circledC_omp.glif</string>
+  <key>_circlewhite</key>
+  <string>_circlewhite.glif</string>
+  <key>_eight</key>
+  <string>_eight.glif</string>
+  <key>_eightdouble</key>
+  <string>_eightdouble.glif</string>
+  <key>_five</key>
+  <string>_five.glif</string>
+  <key>_fivedouble</key>
+  <string>_fivedouble.glif</string>
+  <key>_four</key>
+  <string>_four.glif</string>
+  <key>_fourdouble</key>
+  <string>_fourdouble.glif</string>
+  <key>_nine</key>
+  <string>_nine.glif</string>
+  <key>_ninedouble</key>
+  <string>_ninedouble.glif</string>
+  <key>_one</key>
+  <string>_one.glif</string>
+  <key>_onedouble</key>
+  <string>_onedouble.glif</string>
+  <key>_seven</key>
+  <string>_seven.glif</string>
+  <key>_sevendouble</key>
+  <string>_sevendouble.glif</string>
+  <key>_six</key>
+  <string>_six.glif</string>
+  <key>_sixdouble</key>
+  <string>_sixdouble.glif</string>
+  <key>_three</key>
+  <string>_three.glif</string>
+  <key>_threedouble</key>
+  <string>_threedouble.glif</string>
+  <key>_two</key>
+  <string>_two.glif</string>
+  <key>_twodouble</key>
+  <string>_twodouble.glif</string>
+  <key>_zero</key>
+  <string>_zero.glif</string>
+  <key>_zerodouble</key>
+  <string>_zerodouble.glif</string>
   <key>asterisk</key>
   <string>asterisk.glif</string>
   <key>blackFourPointedStar</key>

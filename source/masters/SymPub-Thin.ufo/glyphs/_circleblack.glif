@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_circleblack" format="2">
+  <advance width="1000"/>
+  <anchor x="500" y="0" name="center"/>
+  <outline>
+    <component base="_blackCircledComp"/>
+  </outline>
+</glyph>
