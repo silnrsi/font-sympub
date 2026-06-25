@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_four" format="2">
   <advance width="1000"/>
-  <anchor x="500" y="0" name="center"/>
+  <anchor x="500" y="357" name="_C"/>
   <outline>
-    <component base="fourcircle"/>
+    <contour>
+      <point x="532" y="144" type="line"/>
+      <point x="561" y="144" type="line"/>
+      <point x="561" y="251" type="line"/>
+      <point x="632" y="251" type="line"/>
+      <point x="632" y="278" type="line"/>
+      <point x="561" y="278" type="line"/>
+      <point x="561" y="572" type="line"/>
+      <point x="521" y="572" type="line"/>
+      <point x="330" y="273" type="line"/>
+      <point x="330" y="251" type="line"/>
+      <point x="532" y="251" type="line"/>
+    </contour>
+    <contour>
+      <point x="364" y="278" type="line"/>
+      <point x="490" y="474" type="line" smooth="yes"/>
+      <point x="509" y="503"/>
+      <point x="525" y="530"/>
+      <point x="533" y="548" type="curve"/>
+      <point x="534" y="548" type="line"/>
+      <point x="533" y="528"/>
+      <point x="532" y="496"/>
+      <point x="532" y="464" type="curve" smooth="yes"/>
+      <point x="532" y="278" type="line"/>
+    </contour>
   </outline>
 </glyph>

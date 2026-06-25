@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_seven" format="2">
   <advance width="1000"/>
-  <anchor x="500" y="0" name="center"/>
+  <anchor x="500" y="357" name="_C"/>
   <outline>
-    <component base="sevencircle"/>
+    <contour>
+      <point x="433" y="144" type="line"/>
+      <point x="464" y="144" type="line"/>
+      <point x="651" y="550" type="line"/>
+      <point x="651" y="572" type="line"/>
+      <point x="376" y="572" type="line"/>
+      <point x="376" y="545" type="line"/>
+      <point x="619" y="545" type="line"/>
+    </contour>
   </outline>
 </glyph>
