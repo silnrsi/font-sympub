@@ -29,10 +29,6 @@
   <string>3436</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Black</string>
-  <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-  <array>
-    <string>/_zero/_one/_two/_three/_four/_five/_six/_seven/_eight/_nine/_zerodouble/_onedouble/_twodouble/_threedouble/_fourdouble/_fivedouble/_sixdouble/_sevendouble/_eightdouble/_ninedouble</string>
-  </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>

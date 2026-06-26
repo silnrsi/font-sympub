@@ -2,6 +2,8 @@
 <glyph name="_circlewhite" format="2">
   <advance width="1000"/>
   <anchor x="500" y="357" name="C"/>
+  <anchor x="387" y="357" name="L"/>
+  <anchor x="613" y="357" name="R"/>
   <outline>
     <contour>
       <point x="500" y="-55" type="curve" smooth="yes"/>

@@ -6,6 +6,11 @@ psfnormalize -p checkfix=fix source/masters/SymPub-Regular.ufo &
 psfnormalize -p checkfix=fix source/masters/SymPub-Black.ufo   &
 wait
 
+echo "-----Rebuilding composites..."
+psfbuildcomp -i source/composites.txt -c -n source/masters/SymPub-Thin.ufo -p backup=False
+psfbuildcomp -i source/composites.txt -c -n source/masters/SymPub-Regular.ufo -p backup=False
+psfbuildcomp -i source/composites.txt -c -n source/masters/SymPub-Black.ufo -p backup=False
+
 # Update glyph order in Regular UFO
 psfsetglyphorder --header sort_final -i source/glyph_data.csv source/masters/SymPub-Regular.ufo
 
