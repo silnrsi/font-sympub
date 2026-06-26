@@ -29,6 +29,11 @@
   <string>3436</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Black</string>
+  <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
+  <array>
+    <string>/circledwhite10/circledwhite0/circledwhite1/circledwhite2/circledwhite3/circledwhite4/circledwhite5/circledwhite6/circledwhite7/circledwhite8/circledwhite9/circledwhite10</string>
+    <string>/_zerodouble/_zero/_one/_two/_three/_four/_five/_six/_seven/_eight/_nine/_zerodouble</string>
+  </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
