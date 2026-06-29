@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_sevendouble" format="2">
   <advance width="1000"/>
-  <anchor x="632" y="357" name="_L"/>
-  <anchor x="612" y="357" name="_R"/>
+  <anchor x="510" y="357" name="_L"/>
+  <anchor x="490" y="357" name="_R"/>
   <outline>
     <contour>
-      <point x="508" y="144" type="line"/>
-      <point x="577" y="144" type="line"/>
-      <point x="737" y="524" type="line"/>
-      <point x="737" y="573" type="line"/>
-      <point x="468" y="573" type="line"/>
-      <point x="468" y="513" type="line"/>
-      <point x="665" y="513" type="line"/>
+      <point x="419" y="144" type="line"/>
+      <point x="488" y="144" type="line"/>
+      <point x="648" y="524" type="line"/>
+      <point x="648" y="573" type="line"/>
+      <point x="379" y="573" type="line"/>
+      <point x="379" y="513" type="line"/>
+      <point x="576" y="513" type="line"/>
     </contour>
   </outline>
 </glyph>

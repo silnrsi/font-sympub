@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circledwhite4" format="2">
   <advance width="1000"/>
-  <anchor x="387" y="357" name="L"/>
-  <anchor x="613" y="357" name="R"/>
+  <anchor x="357" y="357" name="L"/>
+  <anchor x="643" y="357" name="R"/>
   <outline>
     <component base="_circlewhite"/>
     <component base="_four"/>

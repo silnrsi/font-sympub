@@ -98,3 +98,4 @@ circledwhite96 = _circlewhite + _ninedouble@L + _sixdouble@_circlewhite:R
 circledwhite97 = _circlewhite + _ninedouble@L + _sevendouble@_circlewhite:R
 circledwhite98 = _circlewhite + _ninedouble@L + _eightdouble@_circlewhite:R
 circledwhite99 = _circlewhite + _ninedouble@L + _ninedouble@_circlewhite:R
+circledwhite00 = _circlewhite + _zerodouble@L + _zerodouble@_circlewhite:R

@@ -2,12 +2,12 @@
 <glyph name="circledwhite86" format="2">
   <advance width="1000"/>
   <anchor x="500" y="357" name="C"/>
-  <anchor x="642" y="357" name="_L"/>
-  <anchor x="358" y="357" name="_R"/>
+  <anchor x="660" y="357" name="_L"/>
+  <anchor x="340" y="357" name="_R"/>
   <outline>
     <component base="_circlewhite"/>
-    <component base="_eightdouble" xOffset="-254"/>
-    <component base="_sixdouble" xOffset="10"/>
+    <component base="_eightdouble" xOffset="-150"/>
+    <component base="_sixdouble" xOffset="150"/>
   </outline>
   <lib>
     <dict>
