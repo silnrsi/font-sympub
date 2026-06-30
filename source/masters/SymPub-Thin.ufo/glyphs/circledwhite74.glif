@@ -3,10 +3,10 @@
   <advance width="1000"/>
   <anchor x="500" y="357" name="C"/>
   <anchor x="663" y="357" name="_L"/>
-  <anchor x="337" y="357" name="_R"/>
+  <anchor x="377" y="357" name="_R"/>
   <outline>
     <component base="_circlewhite"/>
-    <component base="_sevendouble" xOffset="-153"/>
+    <component base="_sevendouble" xOffset="-133"/>
     <component base="_fourdouble" xOffset="153"/>
   </outline>
   <lib>

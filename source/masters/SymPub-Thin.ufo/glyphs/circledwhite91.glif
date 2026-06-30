@@ -2,7 +2,7 @@
 <glyph name="circledwhite91" format="2">
   <advance width="1000"/>
   <anchor x="500" y="357" name="C"/>
-  <anchor x="663" y="357" name="_L"/>
+  <anchor x="633" y="357" name="_L"/>
   <anchor x="337" y="357" name="_R"/>
   <outline>
     <component base="_circlewhite"/>
