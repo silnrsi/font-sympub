@@ -16,10 +16,10 @@ psfbuildcomp -i source/composites.txt -c -n source/masters/SymPub-Black.ufo -p b
 # and have the correct path direction applied. This is necessary to properly construct the
 # white-on-black effects in the circled numbers and letters. Running this again will undo
 # any manual decomposition and path direction changes!
-echo "-----Rebuilding reversed composites - will need post-processing..."
-psfbuildcomp -i source/compositesreversed.txt -c -n source/masters/SymPub-Thin.ufo -p backup=False
-psfbuildcomp -i source/compositesreversed.txt -c -n source/masters/SymPub-Regular.ufo -p backup=False
-psfbuildcomp -i source/compositesreversed.txt -c -n source/masters/SymPub-Black.ufo -p backup=False
+# echo "-----Rebuilding reversed composites - will need post-processing..."
+# psfbuildcomp -i source/compositesreversed.txt -n -f source/masters/SymPub-Thin.ufo -p backup=False
+# psfbuildcomp -i source/compositesreversed.txt -n -f source/masters/SymPub-Regular.ufo -p backup=False
+# psfbuildcomp -i source/compositesreversed.txt -n -f source/masters/SymPub-Black.ufo -p backup=False
 
 # Update glyph order in Regular UFO
 psfsetglyphorder --header sort_final -i source/glyph_data.csv source/masters/SymPub-Regular.ufo

@@ -109,3 +109,6 @@ __pycache__/
 
 # Glyphs.App
 *.glyphs
+SymPub Glyph Data - glyph_data.csv
+rename.csv
+comptemp.txt
