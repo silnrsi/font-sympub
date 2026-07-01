@@ -17,7 +17,7 @@ cmds = [
 
 designspace('source/SymPub.designspace',
             target = process("${DS:FILENAME_BASE}.ttf", *cmds),
-            params = "--decomposeComponents --removeOverlap",
+            params = "--decomposeComponents",
             pdf = fret(params="-r -oi"),
             woff = woff('web/${DS:FILENAME_BASE}',
                 metadata = f'../source/SymPub-WOFF-metadata.xml')
