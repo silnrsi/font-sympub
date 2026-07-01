@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circlednum4" format="2">
   <advance width="1000"/>
+  <unicode hex="2463"/>
   <anchor x="357" y="357" name="L"/>
   <anchor x="643" y="357" name="R"/>
   <outline>
