@@ -96,37 +96,6 @@
     <string>topRightCorner</string>
     <string>bottomLeftCorner</string>
     <string>bottomRightCorner</string>
-    <string>onecircle</string>
-    <string>twocircle</string>
-    <string>threecircle</string>
-    <string>fourcircle</string>
-    <string>fivecircle</string>
-    <string>sixcircle</string>
-    <string>sevencircle</string>
-    <string>eightcircle</string>
-    <string>ninecircle</string>
-    <string>tencircle</string>
-    <string>elevencircle</string>
-    <string>twelvecircle</string>
-    <string>thirteencircle</string>
-    <string>fourteencircle</string>
-    <string>fifteencircle</string>
-    <string>sixteencircle</string>
-    <string>seventeencircle</string>
-    <string>eighteencircle</string>
-    <string>nineteencircle</string>
-    <string>twentycircle</string>
-    <string>elevenblackcircle</string>
-    <string>twelveblackcircle</string>
-    <string>thirteenblackcircle</string>
-    <string>fourteenblackcircle</string>
-    <string>fifteenblackcircle</string>
-    <string>sixteenblackcircle</string>
-    <string>seventeenblackcircle</string>
-    <string>eighteenblackcircle</string>
-    <string>nineteenblackcircle</string>
-    <string>twentyblackcircle</string>
-    <string>zeroblackcircle</string>
     <string>lozenge</string>
     <string>blackstar</string>
     <string>whitestar</string>
@@ -141,29 +110,17 @@
     <string>heavyEightPointedRectilinearBlackStar</string>
     <string>teardropSpokedAsterisk</string>
     <string>whiteXBlackDiamond</string>
-    <string>oneblackcircle</string>
-    <string>twoblackcircle</string>
-    <string>threeblackcircle</string>
-    <string>fourblackcircle</string>
-    <string>fiveblackcircle</string>
-    <string>sixblackcircle</string>
-    <string>sevenblackcircle</string>
-    <string>eightblackcircle</string>
-    <string>nineblackcircle</string>
-    <string>tenblackcircle</string>
     <string>topleftHalfBracket</string>
     <string>toprightHalfBracket</string>
     <string>bottomleftHalfBracket</string>
     <string>bottomrightHalfBracket</string>
     <string>tripledagger</string>
+    <string>sidebearingleft</string>
     <string>refasc</string>
     <string>refdesc</string>
+    <string>sidebearingright</string>
     <string>refuc</string>
     <string>refbox</string>
-    <string>sidebearingleft</string>
-    <string>sidebearingright</string>
-    <string>_blackCircledComp</string>
-    <string>_circledComp</string>
     <string>_circlenum</string>
     <string>_circlenumrev</string>
     <string>_zero</string>
