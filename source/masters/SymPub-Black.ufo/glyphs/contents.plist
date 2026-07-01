@@ -70,6 +70,26 @@
   <string>bottomrightH_alfB_racket.glif</string>
   <key>bullet</key>
   <string>bullet.glif</string>
+  <key>circledblack0</key>
+  <string>circledblack0.glif</string>
+  <key>circledblack1</key>
+  <string>circledblack1.glif</string>
+  <key>circledblack2</key>
+  <string>circledblack2.glif</string>
+  <key>circledblack3</key>
+  <string>circledblack3.glif</string>
+  <key>circledblack4</key>
+  <string>circledblack4.glif</string>
+  <key>circledblack5</key>
+  <string>circledblack5.glif</string>
+  <key>circledblack6</key>
+  <string>circledblack6.glif</string>
+  <key>circledblack7</key>
+  <string>circledblack7.glif</string>
+  <key>circledblack8</key>
+  <string>circledblack8.glif</string>
+  <key>circledblack9</key>
+  <string>circledblack9.glif</string>
   <key>circledwhite0</key>
   <string>circledwhite0.glif</string>
   <key>circledwhite00</key>

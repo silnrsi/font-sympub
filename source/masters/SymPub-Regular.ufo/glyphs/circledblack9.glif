@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circledblack9" format="2">
+  <advance width="1000"/>
+  <anchor x="360" y="357" name="L"/>
+  <anchor x="640" y="357" name="R"/>
+  <anchor x="500" y="0" name="center"/>
+  <outline>
+    <component base="_circleblack"/>
+    <component base="_nine"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>
