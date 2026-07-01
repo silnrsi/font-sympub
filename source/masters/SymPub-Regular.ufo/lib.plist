@@ -29,19 +29,19 @@
   <string>3436</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/circledwhite10/circledwhite0/circledwhite1/circledwhite2/circledwhite3/circledwhite4/circledwhite5/circledwhite6/circledwhite7/circledwhite8/circledwhite9/circledwhite10</string>
-    <string>/_zerodouble/_zero/_one/_two/_three/_four/_five/_six/_seven/_eight/_nine/_zerodouble</string>
-    <string>/_zero/_one/_two/_three/_four/_five/_six/_seven/_eight/_nine 
+    <string>/_ninedouble/_eightdouble/_sevendouble/_sixdouble/_fivedouble/_fourdouble/_threedouble/_twodouble/_onedouble/_zerodouble/_nine/_ninedouble</string>
+    <string>/_eight/_seven/_six/_five/_four/_four/_five/_six/_seven/_eight/_nine/_eight</string>
+    <string>/_seven/_six/_five/_four/_four/_five/_six/_seven/_eight/_nine 
 /_zerodouble/_onedouble/_twodouble/_threedouble/_fourdouble/_fivedouble/_sixdouble/_sevendouble/_eightdouble/_ninedouble</string>
-    <string>/circledwhite10/circledwhite11/circledwhite12/circledwhite13/circledwhite14/circledwhite15/circledwhite16/circledwhite17/circledwhite18/circledwhite19 
-/circledwhite20/circledwhite21/circledwhite22/circledwhite23/circledwhite24/circledwhite25/circledwhite26/circledwhite27/circledwhite28/circledwhite29 
-/circledwhite30/circledwhite31/circledwhite32/circledwhite33/circledwhite34/circledwhite35/circledwhite36/circledwhite37/circledwhite38/circledwhite39 
-/circledwhite40/circledwhite41/circledwhite42/circledwhite43/circledwhite44/circledwhite45/circledwhite46/circledwhite47/circledwhite48/circledwhite49 
-/circledwhite50/circledwhite51/circledwhite52/circledwhite53/circledwhite54/circledwhite55/circledwhite56/circledwhite57/circledwhite58/circledwhite59 
-/circledwhite60/circledwhite61/circledwhite62/circledwhite63/circledwhite64/circledwhite65/circledwhite66/circledwhite67/circledwhite68/circledwhite69 
-/circledwhite70/circledwhite71/circledwhite72/circledwhite73/circledwhite74/circledwhite75/circledwhite76/circledwhite77/circledwhite78/circledwhite79 
-/circledwhite80/circledwhite81/circledwhite82/circledwhite83/circledwhite84/circledwhite85/circledwhite86/circledwhite87/circledwhite88/circledwhite89 
-/circledwhite90/circledwhite91/circledwhite92/circledwhite93/circledwhite94/circledwhite95/circledwhite96/circledwhite97/circledwhite98/circledwhite99/circledwhite00</string>
+    <string>/_ninedouble 
+
+
+
+
+
+
+
+</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
