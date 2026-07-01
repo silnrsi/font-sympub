@@ -5,8 +5,10 @@
   <anchor x="490" y="357" name="_R"/>
   <outline>
     <contour>
-      <point x="487" y="144" type="line"/>
-      <point x="513" y="144" type="line"/>
+      <point x="381" y="144" type="line"/>
+      <point x="619" y="144" type="line"/>
+      <point x="619" y="171" type="line"/>
+      <point x="513" y="171" type="line"/>
       <point x="513" y="572" type="line"/>
       <point x="476" y="572" type="line"/>
       <point x="376" y="494" type="line"/>
@@ -20,11 +22,7 @@
       <point x="487" y="529"/>
       <point x="487" y="505"/>
       <point x="487" y="484" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="381" y="144" type="line"/>
-      <point x="619" y="144" type="line"/>
-      <point x="619" y="171" type="line"/>
+      <point x="487" y="171" type="line"/>
       <point x="381" y="171" type="line"/>
     </contour>
   </outline>
