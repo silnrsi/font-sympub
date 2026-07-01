@@ -405,38 +405,92 @@
     <string>uni2E24</string>
     <key>bottomrightHalfBracket</key>
     <string>uni2E25</string>
+    <key>circlednum1</key>
+    <string>uni2460</string>
+    <key>circlednum10</key>
+    <string>uni2469</string>
+    <key>circlednum11</key>
+    <string>uni246A</string>
+    <key>circlednum12</key>
+    <string>uni246B</string>
+    <key>circlednum13</key>
+    <string>uni246C</string>
+    <key>circlednum14</key>
+    <string>uni246D</string>
+    <key>circlednum15</key>
+    <string>uni246E</string>
+    <key>circlednum16</key>
+    <string>uni246F</string>
+    <key>circlednum17</key>
+    <string>uni2470</string>
+    <key>circlednum18</key>
+    <string>uni2471</string>
+    <key>circlednum19</key>
+    <string>uni2472</string>
+    <key>circlednum2</key>
+    <string>uni2461</string>
+    <key>circlednum20</key>
+    <string>uni2473</string>
+    <key>circlednum3</key>
+    <string>uni2462</string>
+    <key>circlednum4</key>
+    <string>uni2463</string>
+    <key>circlednum5</key>
+    <string>uni2464</string>
+    <key>circlednum6</key>
+    <string>uni2465</string>
+    <key>circlednum7</key>
+    <string>uni2466</string>
+    <key>circlednum8</key>
+    <string>uni2467</string>
+    <key>circlednum9</key>
+    <string>uni2468</string>
+    <key>circlednumrev0</key>
+    <string>uni24FF</string>
+    <key>circlednumrev1</key>
+    <string>uni2776</string>
+    <key>circlednumrev10</key>
+    <string>uni277F</string>
+    <key>circlednumrev11</key>
+    <string>uni24EB</string>
+    <key>circlednumrev12</key>
+    <string>uni24EC</string>
+    <key>circlednumrev13</key>
+    <string>uni24ED</string>
+    <key>circlednumrev14</key>
+    <string>uni24EE</string>
+    <key>circlednumrev15</key>
+    <string>uni24EF</string>
+    <key>circlednumrev16</key>
+    <string>uni24F0</string>
+    <key>circlednumrev17</key>
+    <string>uni24F1</string>
+    <key>circlednumrev18</key>
+    <string>uni24F2</string>
+    <key>circlednumrev19</key>
+    <string>uni24F3</string>
+    <key>circlednumrev2</key>
+    <string>uni2777</string>
+    <key>circlednumrev20</key>
+    <string>uni24F4</string>
+    <key>circlednumrev3</key>
+    <string>uni2778</string>
+    <key>circlednumrev4</key>
+    <string>uni2779</string>
+    <key>circlednumrev5</key>
+    <string>uni277A</string>
+    <key>circlednumrev6</key>
+    <string>uni277B</string>
+    <key>circlednumrev7</key>
+    <string>uni277C</string>
+    <key>circlednumrev8</key>
+    <string>uni277D</string>
+    <key>circlednumrev9</key>
+    <string>uni277E</string>
     <key>eightPointedBlackStar</key>
     <string>uni2734</string>
-    <key>eightblackcircle</key>
-    <string>uni277D</string>
-    <key>eightcircle</key>
-    <string>uni2467</string>
-    <key>eighteenblackcircle</key>
-    <string>uni24F2</string>
-    <key>eighteencircle</key>
-    <string>uni2471</string>
-    <key>elevenblackcircle</key>
-    <string>uni24EB</string>
-    <key>elevencircle</key>
-    <string>uni246A</string>
-    <key>fifteenblackcircle</key>
-    <string>uni24EF</string>
-    <key>fifteencircle</key>
-    <string>uni246E</string>
-    <key>fiveblackcircle</key>
-    <string>uni277A</string>
-    <key>fivecircle</key>
-    <string>uni2464</string>
     <key>fourBalloonSpokedAsterisk</key>
     <string>uni2723</string>
-    <key>fourblackcircle</key>
-    <string>uni2779</string>
-    <key>fourcircle</key>
-    <string>uni2463</string>
-    <key>fourteenblackcircle</key>
-    <string>uni24EE</string>
-    <key>fourteencircle</key>
-    <string>uni246D</string>
     <key>fractioncircle</key>
     <string>uni2298</string>
     <key>heavyEightPointedRectilinearBlackStar</key>
@@ -453,18 +507,6 @@
     <string>circlemultiply</string>
     <key>nabla</key>
     <string>gradient</string>
-    <key>nineblackcircle</key>
-    <string>uni277E</string>
-    <key>ninecircle</key>
-    <string>uni2468</string>
-    <key>nineteenblackcircle</key>
-    <string>uni24F3</string>
-    <key>nineteencircle</key>
-    <string>uni2472</string>
-    <key>oneblackcircle</key>
-    <string>uni2776</string>
-    <key>onecircle</key>
-    <string>uni2460</string>
     <key>pinwheelStar</key>
     <string>uni272F</string>
     <key>pluscircle</key>
@@ -483,42 +525,14 @@
     <string>uni2309</string>
     <key>rightFloor</key>
     <string>uni230B</string>
-    <key>sevenblackcircle</key>
-    <string>uni277C</string>
-    <key>sevencircle</key>
-    <string>uni2466</string>
-    <key>seventeenblackcircle</key>
-    <string>uni24F1</string>
-    <key>seventeencircle</key>
-    <string>uni2470</string>
     <key>sidebearingleft</key>
     <string>uniF130</string>
     <key>sidebearingright</key>
     <string>uniF131</string>
     <key>sixPointedBlackStar</key>
     <string>uni2736</string>
-    <key>sixblackcircle</key>
-    <string>uni277B</string>
-    <key>sixcircle</key>
-    <string>uni2465</string>
-    <key>sixteenblackcircle</key>
-    <string>uni24F0</string>
-    <key>sixteencircle</key>
-    <string>uni246F</string>
     <key>teardropSpokedAsterisk</key>
     <string>uni273B</string>
-    <key>tenblackcircle</key>
-    <string>uni277F</string>
-    <key>tencircle</key>
-    <string>uni2469</string>
-    <key>thirteenblackcircle</key>
-    <string>uni24ED</string>
-    <key>thirteencircle</key>
-    <string>uni246C</string>
-    <key>threeblackcircle</key>
-    <string>uni2778</string>
-    <key>threecircle</key>
-    <string>uni2462</string>
     <key>topLeftCorner</key>
     <string>uni231C</string>
     <key>topRightCorner</key>
@@ -531,18 +545,6 @@
     <string>uni2023</string>
     <key>tripledagger</key>
     <string>uni2E4B</string>
-    <key>twelveblackcircle</key>
-    <string>uni24EC</string>
-    <key>twelvecircle</key>
-    <string>uni246B</string>
-    <key>twentyblackcircle</key>
-    <string>uni24F4</string>
-    <key>twentycircle</key>
-    <string>uni2473</string>
-    <key>twoblackcircle</key>
-    <string>uni2777</string>
-    <key>twocircle</key>
-    <string>uni2461</string>
     <key>whiteFourPointedStar</key>
     <string>uni2727</string>
     <key>whiteXBlackDiamond</key>
@@ -551,8 +553,6 @@
     <string>uni2606</string>
     <key>whitestarcircle</key>
     <string>uni272A</string>
-    <key>zeroblackcircle</key>
-    <string>uni24FF</string>
   </dict>
 </dict>
 </plist>
