@@ -6,10 +6,6 @@
   <string>_notdef.glif</string>
   <key>Delta</key>
   <string>D_elta.glif</string>
-  <key>_blackCircledComp</key>
-  <string>_blackC_ircledC_omp.glif</string>
-  <key>_circledComp</key>
-  <string>_circledC_omp.glif</string>
   <key>_circlenum</key>
   <string>_circlenum.glif</string>
   <key>_circlenumrev</key>
@@ -482,36 +478,8 @@
   <string>daggerdbl.glif</string>
   <key>eightPointedBlackStar</key>
   <string>eightP_ointedB_lackS_tar.glif</string>
-  <key>eightblackcircle</key>
-  <string>eightblackcircle.glif</string>
-  <key>eightcircle</key>
-  <string>eightcircle.glif</string>
-  <key>eighteenblackcircle</key>
-  <string>eighteenblackcircle.glif</string>
-  <key>eighteencircle</key>
-  <string>eighteencircle.glif</string>
-  <key>elevenblackcircle</key>
-  <string>elevenblackcircle.glif</string>
-  <key>elevencircle</key>
-  <string>elevencircle.glif</string>
-  <key>fifteenblackcircle</key>
-  <string>fifteenblackcircle.glif</string>
-  <key>fifteencircle</key>
-  <string>fifteencircle.glif</string>
-  <key>fiveblackcircle</key>
-  <string>fiveblackcircle.glif</string>
-  <key>fivecircle</key>
-  <string>fivecircle.glif</string>
   <key>fourBalloonSpokedAsterisk</key>
   <string>fourB_alloonS_pokedA_sterisk.glif</string>
-  <key>fourblackcircle</key>
-  <string>fourblackcircle.glif</string>
-  <key>fourcircle</key>
-  <string>fourcircle.glif</string>
-  <key>fourteenblackcircle</key>
-  <string>fourteenblackcircle.glif</string>
-  <key>fourteencircle</key>
-  <string>fourteencircle.glif</string>
   <key>fractioncircle</key>
   <string>fractioncircle.glif</string>
   <key>heavyEightPointedRectilinearBlackStar</key>
@@ -532,20 +500,8 @@
   <string>multiplycircle.glif</string>
   <key>nabla</key>
   <string>nabla.glif</string>
-  <key>nineblackcircle</key>
-  <string>nineblackcircle.glif</string>
-  <key>ninecircle</key>
-  <string>ninecircle.glif</string>
-  <key>nineteenblackcircle</key>
-  <string>nineteenblackcircle.glif</string>
-  <key>nineteencircle</key>
-  <string>nineteencircle.glif</string>
   <key>numbersign</key>
   <string>numbersign.glif</string>
-  <key>oneblackcircle</key>
-  <string>oneblackcircle.glif</string>
-  <key>onecircle</key>
-  <string>onecircle.glif</string>
   <key>paragraph</key>
   <string>paragraph.glif</string>
   <key>periodcentered</key>
@@ -570,44 +526,16 @@
   <string>rightF_loor.glif</string>
   <key>section</key>
   <string>section.glif</string>
-  <key>sevenblackcircle</key>
-  <string>sevenblackcircle.glif</string>
-  <key>sevencircle</key>
-  <string>sevencircle.glif</string>
-  <key>seventeenblackcircle</key>
-  <string>seventeenblackcircle.glif</string>
-  <key>seventeencircle</key>
-  <string>seventeencircle.glif</string>
   <key>sidebearingleft</key>
   <string>sidebearingleft.glif</string>
   <key>sidebearingright</key>
   <string>sidebearingright.glif</string>
   <key>sixPointedBlackStar</key>
   <string>sixP_ointedB_lackS_tar.glif</string>
-  <key>sixblackcircle</key>
-  <string>sixblackcircle.glif</string>
-  <key>sixcircle</key>
-  <string>sixcircle.glif</string>
-  <key>sixteenblackcircle</key>
-  <string>sixteenblackcircle.glif</string>
-  <key>sixteencircle</key>
-  <string>sixteencircle.glif</string>
   <key>space</key>
   <string>space.glif</string>
   <key>teardropSpokedAsterisk</key>
   <string>teardropS_pokedA_sterisk.glif</string>
-  <key>tenblackcircle</key>
-  <string>tenblackcircle.glif</string>
-  <key>tencircle</key>
-  <string>tencircle.glif</string>
-  <key>thirteenblackcircle</key>
-  <string>thirteenblackcircle.glif</string>
-  <key>thirteencircle</key>
-  <string>thirteencircle.glif</string>
-  <key>threeblackcircle</key>
-  <string>threeblackcircle.glif</string>
-  <key>threecircle</key>
-  <string>threecircle.glif</string>
   <key>topLeftCorner</key>
   <string>topL_eftC_orner.glif</string>
   <key>topRightCorner</key>
@@ -620,18 +548,6 @@
   <string>triangularbullet.glif</string>
   <key>tripledagger</key>
   <string>tripledagger.glif</string>
-  <key>twelveblackcircle</key>
-  <string>twelveblackcircle.glif</string>
-  <key>twelvecircle</key>
-  <string>twelvecircle.glif</string>
-  <key>twentyblackcircle</key>
-  <string>twentyblackcircle.glif</string>
-  <key>twentycircle</key>
-  <string>twentycircle.glif</string>
-  <key>twoblackcircle</key>
-  <string>twoblackcircle.glif</string>
-  <key>twocircle</key>
-  <string>twocircle.glif</string>
   <key>whiteFourPointedStar</key>
   <string>whiteF_ourP_ointedS_tar.glif</string>
   <key>whiteXBlackDiamond</key>
@@ -640,7 +556,5 @@
   <string>whitestar.glif</string>
   <key>whitestarcircle</key>
   <string>whitestarcircle.glif</string>
-  <key>zeroblackcircle</key>
-  <string>zeroblackcircle.glif</string>
 </dict>
 </plist>
