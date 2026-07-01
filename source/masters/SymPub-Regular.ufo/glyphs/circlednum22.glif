@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circlednum22" format="2">
+  <advance width="1000"/>
+  <anchor x="500" y="357" name="C"/>
+  <anchor x="620" y="357" name="_L"/>
+  <anchor x="380" y="357" name="_R"/>
+  <outline>
+    <component base="_circlenum"/>
+    <component base="_twodouble" xOffset="-130"/>
+    <component base="_twodouble" xOffset="130"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>
