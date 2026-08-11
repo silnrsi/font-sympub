@@ -25,6 +25,9 @@ E: https://software.sil.org/about/contact/
 W: https://software.sil.org/wstech/
 D: Designers and developers
 
-SIL Global (https://www.sil.org/) serves language communities worldwide,
-building their capacity for sustainable language development by means of
-research, translation, training and materials development.
+The SymPub project is maintained by SIL Global, a community of
+local organizations that walk alongside minority language communities
+to help them know God and use their languages to flourish.
+
+For more information or support please visit:
+https://github.com/silnrsi/font-sympub/

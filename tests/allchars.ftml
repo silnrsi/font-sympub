@@ -4,7 +4,6 @@
   <head>
     <comment>Background colors: light orange: includes a character from Unicode version 16.0 or later; light red: a character is missing from UFO; light green: a character is new in this version of the font</comment>
     <fontscale>200</fontscale>
-    <!--
     <fontsrc label="refT">url(../references/SymPub-Thin.ttf)</fontsrc>
     <fontsrc label="refXL">url(../references/SymPub-ExtraLight.ttf)</fontsrc>
     <fontsrc label="refL">url(../references/SymPub-Light.ttf)</fontsrc>
@@ -14,7 +13,6 @@
     <fontsrc label="refB">url(../references/SymPub-Bold.ttf)</fontsrc>
     <fontsrc label="refXB">url(../references/SymPub-ExtraBold.ttf)</fontsrc>
     <fontsrc label="refK">url(../references/SymPub-Black.ttf)</fontsrc>
-    -->
     <fontsrc label="T">url(../results/SymPub-Thin.ttf)</fontsrc>
     <fontsrc label="XL">url(../results/SymPub-ExtraLight.ttf)</fontsrc>
     <fontsrc label="L">url(../results/SymPub-Light.ttf)</fontsrc>
@@ -120,15 +118,15 @@
       <string>\u00231E \u00231F</string>
     </test>
     <test label="U+2460">
-      <comment>onecircle</comment>
+      <comment>circlednum1</comment>
       <string>\u002460 \u002461 \u002462 \u002463 \u002464 \u002465 \u002466 \u002467 \u002468 \u002469 \u00246A \u00246B \u00246C \u00246D \u00246E \u00246F \u002470 \u002471 \u002472 \u002473</string>
     </test>
     <test label="U+24EB">
-      <comment>elevenblackcircle</comment>
+      <comment>circlednumrev11</comment>
       <string>\u0024EB \u0024EC \u0024ED \u0024EE \u0024EF \u0024F0 \u0024F1 \u0024F2 \u0024F3 \u0024F4</string>
     </test>
     <test label="U+24FF">
-      <comment>zeroblackcircle</comment>
+      <comment>circlednumrev0</comment>
       <string>\u0024FF</string>
     </test>
     <test label="U+25CA">
@@ -176,7 +174,7 @@
       <string>\u002756</string>
     </test>
     <test label="U+2776">
-      <comment>oneblackcircle</comment>
+      <comment>circlednumrev1</comment>
       <string>\u002776 \u002777 \u002778 \u002779 \u00277A \u00277B \u00277C \u00277D \u00277E \u00277F</string>
     </test>
     <test background="#f0fff0" label="U+2E22">
