@@ -5,8 +5,8 @@
   <anchor x="360" y="357" name="L"/>
   <anchor x="640" y="357" name="R"/>
   <outline>
-    <component base="_circlenum"/>
-    <component base="_five"/>
+    <component base="circlenum"/>
+    <component base="five"/>
   </outline>
   <lib>
     <dict>

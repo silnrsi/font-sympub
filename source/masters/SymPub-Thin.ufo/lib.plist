@@ -31,9 +31,9 @@
   <string>Thin</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/_ninedouble/_eightdouble/_sevendouble/_sixdouble/_fivedouble/_fourdouble/_threedouble/_twodouble/_onedouble/_zerodouble/_nine/_ninedouble</string>
-    <string>/_eight/_seven/_six/_five/_four/_four/_five/_six/_seven/_eight/_nine/_eight</string>
-    <string>/_seven/_six/_five/_four/_four/_five/_six/_seven/_eight/_nine 
+    <string>/_ninedouble/_eightdouble/_sevendouble/_sixdouble/_fivedouble/_fourdouble/_threedouble/_twodouble/_onedouble/_zerodouble/nine/_ninedouble</string>
+    <string>/eight/seven/six/five/four/four/five/six/seven/eight/nine/eight</string>
+    <string>/seven/six/five/four/four/five/six/seven/eight/nine 
 /_zerodouble/_onedouble/_twodouble/_threedouble/_fourdouble/_fivedouble/_sixdouble/_sevendouble/_eightdouble/_ninedouble</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
@@ -123,18 +123,18 @@
     <string>sidebearingright</string>
     <string>refuc</string>
     <string>refbox</string>
-    <string>_circlenum</string>
-    <string>_circlenumrev</string>
-    <string>_zero</string>
-    <string>_one</string>
-    <string>_two</string>
-    <string>_three</string>
-    <string>_four</string>
-    <string>_five</string>
-    <string>_six</string>
-    <string>_seven</string>
-    <string>_eight</string>
-    <string>_nine</string>
+    <string>circlenum</string>
+    <string>circlenumrev</string>
+    <string>zero</string>
+    <string>one</string>
+    <string>two</string>
+    <string>three</string>
+    <string>four</string>
+    <string>five</string>
+    <string>six</string>
+    <string>seven</string>
+    <string>eight</string>
+    <string>nine</string>
     <string>_zerodouble</string>
     <string>_onedouble</string>
     <string>_twodouble</string>
@@ -446,6 +446,10 @@
     <string>uni277D</string>
     <key>circlednumrev9</key>
     <string>uni277E</string>
+    <key>circlenum</key>
+    <string>uni20DD</string>
+    <key>circlenumrev</key>
+    <string>uni20DD.inverted</string>
     <key>eightPointedBlackStar</key>
     <string>uni2734</string>
     <key>fourBalloonSpokedAsterisk</key>

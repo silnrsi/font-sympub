@@ -4,8 +4,8 @@
   <anchor x="370" y="357" name="L"/>
   <anchor x="630" y="357" name="R"/>
   <outline>
-    <component base="_circlenum"/>
-    <component base="_zero"/>
+    <component base="circlenum"/>
+    <component base="zero"/>
   </outline>
   <lib>
     <dict>

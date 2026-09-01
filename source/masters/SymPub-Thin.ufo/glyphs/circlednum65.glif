@@ -5,7 +5,7 @@
   <anchor x="663" y="357" name="_L"/>
   <anchor x="337" y="357" name="_R"/>
   <outline>
-    <component base="_circlenum"/>
+    <component base="circlenum"/>
     <component base="_sixdouble" xOffset="-153"/>
     <component base="_fivedouble" xOffset="153"/>
   </outline>
