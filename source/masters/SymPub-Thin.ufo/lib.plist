@@ -124,7 +124,7 @@
     <string>refuc</string>
     <string>refbox</string>
     <string>circlenum</string>
-    <string>circlenumrev</string>
+    <string>circlenum.inverted</string>
     <string>zero</string>
     <string>one</string>
     <string>two</string>
@@ -448,7 +448,7 @@
     <string>uni277E</string>
     <key>circlenum</key>
     <string>uni20DD</string>
-    <key>circlenumrev</key>
+    <key>circlenum.inverted</key>
     <string>uni20DD.inverted</string>
     <key>eightPointedBlackStar</key>
     <string>uni2734</string>

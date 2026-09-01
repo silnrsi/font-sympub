@@ -448,8 +448,8 @@
   <string>circlednumrev99.glif</string>
   <key>circlenum</key>
   <string>circlenum.glif</string>
-  <key>circlenumrev</key>
-  <string>circlenumrev.glif</string>
+  <key>circlenum.inverted</key>
+  <string>circlenum.inverted.glif</string>
   <key>currency</key>
   <string>currency.glif</string>
   <key>dagger</key>
