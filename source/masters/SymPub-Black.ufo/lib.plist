@@ -29,6 +29,10 @@
   <string>3436</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Black</string>
+  <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
+  <array>
+    <string>/leftCeiling/rightCeiling/leftFloor/rightFloor/topLeftCorner/topRightCorner/bottomLeftCorner/bottomRightCorner/topleftHalfBracket/toprightHalfBracket/bottomleftHalfBracket/bottomrightHalfBracket/refasc/refdesc/refuc/refbox/circlednum0</string>
+  </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
