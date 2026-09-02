@@ -29,13 +29,6 @@
   <string>3436</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Black</string>
-  <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-  <array>
-    <string>/_ninedouble/_eightdouble/_sevendouble/_sixdouble/_fivedouble/_fourdouble/_threedouble/_twodouble/_onedouble/_zerodouble/nine/_ninedouble</string>
-    <string>/eight/seven/six/five/four/four/five/six/seven/eight/nine/eight</string>
-    <string>/seven/six/five/four/four/five/six/seven/eight/nine 
-/_zerodouble/_onedouble/_twodouble/_threedouble/_fourdouble/_fivedouble/_sixdouble/_sevendouble/_eightdouble/_ninedouble</string>
-  </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
@@ -51,7 +44,7 @@
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue3</key>
   <integer>0</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
-  <string/>
+  <string>Bold</string>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
   <integer>190</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>

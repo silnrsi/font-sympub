@@ -5,7 +5,7 @@
   <key>ascender</key>
   <integer>966</integer>
   <key>capHeight</key>
-  <integer>879</integer>
+  <integer>671</integer>
   <key>copyright</key>
   <string>Copyright (c) 2023-2026 SIL Global (https://www.sil.org/). Symbols from Noto Sans super-family copyright (c) 2015-2026 Google LLC.</string>
   <key>descender</key>
@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>SymPub</string>
   <key>openTypeHeadCreated</key>
-  <string>2026/09/01 14:16:30</string>
+  <string>2026/09/02 15:41:41</string>
   <key>openTypeHheaAscender</key>
   <integer>966</integer>
   <key>openTypeHheaDescender</key>
@@ -160,11 +160,24 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>234</integer>
   <key>postscriptBlueValues</key>
   <array>
-    <integer>-10</integer>
+    <integer>-16</integer>
     <integer>0</integer>
+    <integer>478</integer>
+    <integer>494</integer>
+    <integer>671</integer>
+    <integer>687</integer>
+    <integer>725</integer>
+    <integer>740</integer>
   </array>
   <key>postscriptFontName</key>
   <string>SymPub-Thin</string>
+  <key>postscriptOtherBlues</key>
+  <array>
+    <integer>-229</integer>
+    <integer>-213</integer>
+    <integer>360</integer>
+    <integer>375</integer>
+  </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-100</integer>
   <key>postscriptUnderlineThickness</key>
@@ -204,6 +217,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <string>https://github.com/silnrsi/font-sympub</string>
   </dict>
   <key>xHeight</key>
-  <integer>366</integer>
+  <integer>478</integer>
 </dict>
 </plist>
