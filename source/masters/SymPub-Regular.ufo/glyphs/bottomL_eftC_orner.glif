@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bottomLeftCorner" format="2">
-  <advance width="442"/>
+  <advance width="440"/>
   <unicode hex="231E"/>
   <note>
 uni231E
 </note>
-  <anchor x="221" y="0" name="center"/>
   <outline>
     <contour>
-      <point x="51" y="0" type="line"/>
-      <point x="391" y="0" type="line"/>
-      <point x="391" y="71" type="line"/>
-      <point x="122" y="71" type="line"/>
-      <point x="122" y="368" type="line"/>
-      <point x="51" y="368" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="390" y="64" type="line"/>
+      <point x="122" y="64" type="line"/>
+      <point x="122" y="390" type="line"/>
+      <point x="50" y="390" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -31,7 +31,7 @@
   <string>Black</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/leftCeiling/rightCeiling/leftFloor/rightFloor/topLeftCorner/topRightCorner/bottomLeftCorner/bottomRightCorner/topleftHalfBracket/toprightHalfBracket/bottomleftHalfBracket/bottomrightHalfBracket/refasc/refdesc/refuc/refbox/circlednum0</string>
+    <string>/sidebearingleft/refuc/sidebearingright/leftCeiling/refasc/rightCeiling/leftFloor/refdesc/rightFloor/topLeftCorner/refasc/topRightCorner/bottomLeftCorner/refdesc/bottomRightCorner/topleftHalfBracket/refasc/toprightHalfBracket/bottomleftHalfBracket/refdesc/bottomrightHalfBracket/refasc/refdesc/refuc/refbox/circlednum0</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
