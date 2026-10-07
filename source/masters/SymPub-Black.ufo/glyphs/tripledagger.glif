@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tripledagger" format="2">
-  <advance width="524"/>
+  <advance width="288"/>
   <unicode hex="2E4B"/>
   <outline>
     <contour>
-      <point x="183" y="0" type="line"/>
-      <point x="343" y="0" type="line"/>
-      <point x="314" y="113" type="line"/>
-      <point x="470" y="98" type="line"/>
-      <point x="470" y="238" type="line"/>
-      <point x="314" y="223" type="line"/>
-      <point x="338" y="384" type="line"/>
-      <point x="314" y="537" type="line"/>
-      <point x="470" y="522" type="line"/>
-      <point x="470" y="662" type="line"/>
-      <point x="314" y="647" type="line"/>
-      <point x="343" y="760" type="line"/>
-      <point x="183" y="760" type="line"/>
-      <point x="212" y="647" type="line"/>
-      <point x="54" y="662" type="line"/>
-      <point x="54" y="522" type="line"/>
-      <point x="212" y="537" type="line"/>
-      <point x="187" y="384" type="line"/>
-      <point x="212" y="223" type="line"/>
-      <point x="54" y="238" type="line"/>
-      <point x="54" y="98" type="line"/>
-      <point x="212" y="113" type="line"/>
+      <point x="104" y="360" type="line"/>
+      <point x="185" y="360" type="line"/>
+      <point x="170" y="416" type="line"/>
+      <point x="248" y="409" type="line"/>
+      <point x="248" y="479" type="line"/>
+      <point x="170" y="471" type="line"/>
+      <point x="182" y="552" type="line"/>
+      <point x="170" y="628" type="line"/>
+      <point x="248" y="621" type="line"/>
+      <point x="248" y="691" type="line"/>
+      <point x="170" y="683" type="line"/>
+      <point x="185" y="740" type="line"/>
+      <point x="104" y="740" type="line"/>
+      <point x="119" y="683" type="line"/>
+      <point x="40" y="691" type="line"/>
+      <point x="40" y="621" type="line"/>
+      <point x="119" y="628" type="line"/>
+      <point x="106" y="552" type="line"/>
+      <point x="119" y="471" type="line"/>
+      <point x="40" y="479" type="line"/>
+      <point x="40" y="409" type="line"/>
+      <point x="119" y="416" type="line"/>
     </contour>
     <contour>
-      <point x="54" y="315" type="line"/>
-      <point x="212" y="330" type="line"/>
-      <point x="314" y="330" type="line"/>
-      <point x="470" y="315" type="line"/>
-      <point x="470" y="455" type="line"/>
-      <point x="314" y="440" type="line"/>
-      <point x="212" y="440" type="line"/>
-      <point x="54" y="455" type="line"/>
+      <point x="40" y="517" type="line"/>
+      <point x="119" y="525" type="line"/>
+      <point x="170" y="525" type="line"/>
+      <point x="248" y="517" type="line"/>
+      <point x="248" y="587" type="line"/>
+      <point x="170" y="580" type="line"/>
+      <point x="119" y="580" type="line"/>
+      <point x="40" y="587" type="line"/>
     </contour>
   </outline>
   <lib>
