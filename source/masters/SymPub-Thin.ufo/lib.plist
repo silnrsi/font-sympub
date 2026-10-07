@@ -33,6 +33,8 @@
   <array>
     <string>/sidebearingleft/refuc/sidebearingright/leftCeiling/refasc/rightCeiling/leftFloor/refdesc/rightFloor/topLeftCorner/refasc/topRightCorner/bottomLeftCorner/refdesc/bottomRightCorner/topleftHalfBracket/refasc/toprightHalfBracket/bottomleftHalfBracket/refdesc/bottomrightHalfBracket/refasc/refdesc/refuc/refbox/circlednum0</string>
     <string>/nabla/pluscircle/lozenge #*¤§¶·/Delta/dagger/daggerdbl/bullet/triangularbullet/referencemark/tripledagger</string>
+    <string>8/circlednum8/refasc/refdesc/refuc/topLeftCorner/bottomRightCorner/nabla/infinity/pluscircle/minuscircle/multiplycircle/fractioncircle/lozenge/blackstar/whitestar/fourBalloonSpokedAsterisk/heavyFourBalloonSpokedAsterisk/blackFourPointedStar/whiteFourPointedStar/whitestarcircle/pinwheelStar/eightPointedBlackStar/sixPointedBlackStar/heavyEightPointedRectilinearBlackStar/teardropSpokedAsterisk/whiteXBlackDiamond</string>
+    <string>0123456789</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
