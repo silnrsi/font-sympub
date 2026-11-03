@@ -15,9 +15,18 @@ cmds = [
     cmd('gftools fix-nonhinting -q --no-backup ${DEP} ${TGT}'),
     ]
 
+generated = 'generated/'
+omitaps = '--omitaps "_C,_L,_R,C,L,R"'
+
 designspace('source/SymPub.designspace',
             target = process("${DS:FILENAME_BASE}.ttf", *cmds),
             params = "--decomposeComponents",
+            opentype = fea(generated + '${DS:FILENAME_BASE}.fea',
+                mapfile = generated + '${DS:FILENAME_BASE}.map',
+                master = 'source/opentype/main.feax',
+                make_params = omitaps,
+                params = '',
+                ),
             pdf = fret(params="-r -oi"),
             woff = woff('web/${DS:FILENAME_BASE}',
                 metadata = f'../source/SymPub-WOFF-metadata.xml')

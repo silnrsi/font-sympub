@@ -32,3 +32,9 @@ psfsyncmasters -q source/SymPub.designspace
 
 # Create WOFF metadata file
 psfmakewoffmetadata -n sympub -i org.sil.fonts -o source/SymPub-WOFF-metadata.xml source/masters/SymPub-Regular.ufo
+
+# Update FEA in UFO
+makefea -o source/masters/SymPub-Thin.ufo/features.fea    -i source/opentype/main.feax --omitaps "_C,_L,_R,C,L,R" source/masters/SymPub-Thin.ufo    &
+makefea -o source/masters/SymPub-Regular.ufo/features.fea -i source/opentype/main.feax --omitaps "_C,_L,_R,C,L,R" source/masters/SymPub-Regular.ufo &
+makefea -o source/masters/SymPub-Black.ufo/features.fea   -i source/opentype/main.feax --omitaps "_C,_L,_R,C,L,R" source/masters/SymPub-Black.ufo   &
+wait
