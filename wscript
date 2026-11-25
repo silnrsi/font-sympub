@@ -2,6 +2,12 @@
 # encoding: utf-8
 # this is a smith configuration file
 
+# command line options
+opts = preprocess_args(
+    {'opt' : '-r'}, # only build the regular font
+    {'opt' : '-s'}, # only build the main (static) font family
+    )
+
 DOCDIR = ["documentation", "web"]
 
 APPNAME = 'SymPub'
@@ -21,6 +27,7 @@ omitaps = '--omitaps "_C,_L,_R,C,L,R"'
 designspace('source/SymPub.designspace',
             target = process("${DS:FILENAME_BASE}.ttf", *cmds),
             params = "--decomposeComponents",
+            instances = ['SymPub Regular'] if '-r' in opts else None,
             opentype = fea(generated + '${DS:FILENAME_BASE}.fea',
                 mapfile = generated + '${DS:FILENAME_BASE}.map',
                 master = 'source/opentype/main.feax',
@@ -31,24 +38,24 @@ designspace('source/SymPub.designspace',
             woff = woff('web/${DS:FILENAME_BASE}',
                 metadata = f'../source/SymPub-WOFF-metadata.xml')
 )
-
-variable = package(
-    appname = APPNAME + '-variable',
-    version = VERSION,
-    docdir = {'documentation': 'documentation', 'variable/web': 'variable/web'}
-)
-
 stem = APPNAME
-font(target = process(f'variable/{stem}TestA.ttf',
-    cmd('gftools fix-font --include-source-fixes -o ${TGT} ${DEP}'),
-    cmd('../tools/genstat.sh ${DEP} ${TGT}')
-    ),
-    source = f'source/variable/{stem}.designspace',
-    params = '--feature-writer None --filter DecomposeTransformedComponentsFilter',
-    version = VERSION,
-    woff = woff(f'variable/web/{stem}TestA.woff2', type='woff2',
-        metadata = f'../source/{APPNAME}-WOFF-metadata.xml',
-        dontship = True),
-    package = variable,
-    no_test = True
-)
+if not ('-r' in opts or '-s' in opts):
+    variable = package(
+        appname = APPNAME + '-variable',
+        version = VERSION,
+        docdir = {'documentation': 'documentation', 'variable/web': 'variable/web'}
+    )
+
+    font(target = process(f'variable/{stem}.ttf',
+        cmd('gftools fix-font --include-source-fixes -o ${TGT} ${DEP}'),
+        cmd('../tools/genstat.sh ${DEP} ${TGT}')
+        ),
+        source = f'source/variable/{stem}.designspace',
+        params = '--feature-writer None --filter DecomposeTransformedComponentsFilter',
+        version = VERSION,
+        woff = woff(f'variable/web/{stem}.woff2', type='woff2',
+            metadata = f'../source/{APPNAME}-WOFF-metadata.xml',
+            dontship = True),
+        package = variable,
+        no_test = True
+    )
